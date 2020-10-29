@@ -1,0 +1,7 @@
+file 'file:E:/python_project/manimLearn/manimLearn/14_3_dim/media/videos/3_dim/1440p60/partial_movie_files/Surface_test_03/00000.mp4'
+file 'file:E:/python_project/manimLearn/manimLearn/14_3_dim/media/videos/3_dim/1440p60/partial_movie_files/Surface_test_03/00001.mp4'
+file 'file:E:/python_project/manimLearn/manimLearn/14_3_dim/media/videos/3_dim/1440p60/partial_movie_files/Surface_test_03/00002.mp4'
+file 'file:E:/python_project/manimLearn/manimLearn/14_3_dim/media/videos/3_dim/1440p60/partial_movie_files/Surface_test_03/00003.mp4'
+file 'file:E:/python_project/manimLearn/manimLearn/14_3_dim/media/videos/3_dim/1440p60/partial_movie_files/Surface_test_03/00004.mp4'
+file 'file:E:/python_project/manimLearn/manimLearn/14_3_dim/media/videos/3_dim/1440p60/partial_movie_files/Surface_test_03/00005.mp4'
+file 'file:E:/python_project/manimLearn/manimLearn/14_3_dim/media/videos/3_dim/1440p60/partial_movie_files/Surface_test_03/00006.mp4'

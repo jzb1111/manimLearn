@@ -1,0 +1,5395 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29) (preloaded format=pdflatex 2020.10.13)  13 OCT 2020 23:01
+entering extended mode
+**./c0348a5b6c6163f9.tex
+(c0348a5b6c6163f9.tex
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-06-18>
+(D:\OtherSoftware\latex\miktex\tex/latex/standalone\standalone.cls
+Document Class: standalone 2018/03/26 v1.3a Class to compile TeX sub-files stan
+dalone
+(D:\OtherSoftware\latex\miktex\tex/latex/tools\shellesc.sty
+Package: shellesc 2019/11/08 v1.0c unified shell escape interface for LaTeX
+Package shellesc Info: Restricted shell escape enabled on input line 77.
+)
+(D:\OtherSoftware\latex\miktex\tex/generic/iftex\ifluatex.sty
+Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
+
+(D:\OtherSoftware\latex\miktex\tex/generic/iftex\iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+))
+(D:\OtherSoftware\latex\miktex\tex/latex/xkeyval\xkeyval.sty
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+
+(D:\OtherSoftware\latex\miktex\tex/generic/xkeyval\xkeyval.tex
+(D:\OtherSoftware\latex\miktex\tex/generic/xkeyval\xkvutils.tex
+\XKV@toks=\toks15
+\XKV@tempa@toks=\toks16
+
+(D:\OtherSoftware\latex\miktex\tex/generic/xkeyval\keyval.tex))
+\XKV@depth=\count167
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+\sa@internal=\count168
+\c@sapage=\count169
+
+(D:\OtherSoftware\latex\miktex\tex/latex/standalone\standalone.cfg
+File: standalone.cfg 2018/03/26 v1.3a Default configuration file for 'standalon
+e' class
+)
+(D:\OtherSoftware\latex\miktex\tex/latex/base\article.cls
+Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
+(D:\OtherSoftware\latex\miktex\tex/latex/base\size10.clo
+File: size10.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+)
+\c@part=\count170
+\c@section=\count171
+\c@subsection=\count172
+\c@subsubsection=\count173
+\c@paragraph=\count174
+\c@subparagraph=\count175
+\c@figure=\count176
+\c@table=\count177
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen134
+)
+(D:\OtherSoftware\latex\miktex\tex/latex/preview\preview.sty
+Package: preview 2017/04/24 11.91 (AUCTeX/preview-latex)
+
+(D:\OtherSoftware\latex\miktex\tex/generic/luatex85\luatex85.sty
+Package: luatex85 2016/06/15 v1.4 pdftex aliases for luatex
+)
+(D:\OtherSoftware\latex\miktex\tex/latex/preview\prtightpage.def
+\PreviewBorder=\dimen135
+)
+\pr@snippet=\count178
+\pr@box=\box45
+\pr@output=\toks17
+))
+(D:\OtherSoftware\latex\miktex\tex/generic/babel\babel.sty
+Package: babel 2020/06/10 3.45 The Babel package
+
+(D:\OtherSoftware\latex\miktex\tex/generic/babel\babel.def
+File: babel.def 2020/06/10 3.45 Babel common definitions
+\babel@savecnt=\count179
+\U@D=\dimen136
+\l@babelnohyphens=\language79
+
+(D:\OtherSoftware\latex\miktex\tex/generic/babel\txtbabel.def)
+\bbl@readstream=\read2
+)
+\bbl@dirlevel=\count180
+
+*************************************
+* Local config file bblopts.cfg used
+*
+(D:\OtherSoftware\latex\miktex\tex/latex/arabi\bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+(D:\OtherSoftware\latex\miktex\tex/latex/babel-english\english.ldf
+Language: english 2017/06/06 v3.3r English support from the babel system
+Package babel Info: \l@canadian = using hyphenrules for english
+(babel)             (\language0) on input line 102.
+Package babel Info: \l@australian = using hyphenrules for ukenglish
+(babel)             (\language73) on input line 105.
+Package babel Info: \l@newzealand = using hyphenrules for ukenglish
+(babel)             (\language73) on input line 108.
+))
+(D:\OtherSoftware\latex\miktex\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2020/01/20 v2.17e AMS math features
+\@mathmargin=\skip49
+
+For additional information on amsmath, use the `?' option.
+(D:\OtherSoftware\latex\miktex\tex/latex/amsmath\amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(D:\OtherSoftware\latex\miktex\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks18
+\ex@=\dimen137
+))
+(D:\OtherSoftware\latex\miktex\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen138
+)
+(D:\OtherSoftware\latex\miktex\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count181
+LaTeX Info: Redefining \frac on input line 227.
+\uproot@=\count182
+\leftroot@=\count183
+LaTeX Info: Redefining \overline on input line 389.
+\classnum@=\count184
+\DOTSCASE@=\count185
+LaTeX Info: Redefining \ldots on input line 486.
+LaTeX Info: Redefining \dots on input line 489.
+LaTeX Info: Redefining \cdots on input line 610.
+\Mathstrutbox@=\box46
+\strutbox@=\box47
+\big@size=\dimen139
+LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
+\macc@depth=\count186
+\c@MaxMatrixCols=\count187
+\dotsspace@=\muskip16
+\c@parentequation=\count188
+\dspbrk@lvl=\count189
+\tag@help=\toks19
+\row@=\count190
+\column@=\count191
+\maxfields@=\count192
+\andhelp@=\toks20
+\eqnshift@=\dimen140
+\alignsep@=\dimen141
+\tagshift@=\dimen142
+\tagwidth@=\dimen143
+\totwidth@=\dimen144
+\lineht@=\dimen145
+\@envbody=\toks21
+\multlinegap=\skip50
+\multlinetaggap=\skip51
+\mathdisplay@stack=\toks22
+LaTeX Info: Redefining \[ on input line 2859.
+LaTeX Info: Redefining \] on input line 2860.
+)
+(D:\OtherSoftware\latex\miktex\tex/latex/amsfonts\amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(D:\OtherSoftware\latex\miktex\tex/latex/amsfonts\amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(D:\OtherSoftware\latex\miktex\tex/latex/doublestroke\dsfont.sty
+Package: dsfont 1995/08/01 v0.1 Double stroke roman fonts
+)
+(D:\OtherSoftware\latex\miktex\tex/latex/setspace\setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+(D:\OtherSoftware\latex\miktex\tex/latex/tipa\tipa.sty
+Package: tipa 2002/08/08 TIPA version 1.1
+
+(D:\OtherSoftware\latex\miktex\tex/latex/base\fontenc.sty
+Package: fontenc 2020/02/11 v2.0o Standard LaTeX package
+
+(D:\OtherSoftware\latex\miktex\tex/latex/tipa\t3enc.def
+File: t3enc.def 2001/12/31 T3 encoding
+Now handling font encoding T3 ...
+... no UTF-8 mapping file for font encoding T3
+)))
+(D:\OtherSoftware\latex\miktex\tex/latex/relsize\relsize.sty
+Package: relsize 2013/03/29 ver 4.1
+)
+(D:\OtherSoftware\latex\miktex\tex/latex/base\textcomp.sty
+Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
+)
+(D:\OtherSoftware\latex\miktex\tex/latex/jknappen\mathrsfs.sty
+Package: mathrsfs 1996/01/01 Math RSFS package v1.0 (jk)
+\symrsfs=\mathgroup6
+)
+(D:\OtherSoftware\latex\miktex\tex/latex/fundus-calligra\calligra.sty
+Package: calligra 2012/04/10 v1.9 LaTeX package calligra
+)
+(D:\OtherSoftware\latex\miktex\tex/latex/wasysym\wasysym.sty
+Package: wasysym 2020/01/19 v2.4 Wasy-2 symbol support package
+\symwasy=\mathgroup7
+LaTeX Font Info:    Overwriting symbol font `wasy' in version `bold'
+(Font)                  U/wasy/m/n --> U/wasy/b/n on input line 93.
+)
+(D:\OtherSoftware\latex\miktex\tex/latex/ragged2e\ragged2e.sty
+Package: ragged2e 2019/07/28 v2.2 ragged2e Package (MS)
+
+(D:\OtherSoftware\latex\miktex\tex/latex/ms\everysel.sty
+Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
+)
+\CenteringLeftskip=\skip52
+\RaggedLeftLeftskip=\skip53
+\RaggedRightLeftskip=\skip54
+\CenteringRightskip=\skip55
+\RaggedLeftRightskip=\skip56
+\RaggedRightRightskip=\skip57
+\CenteringParfillskip=\skip58
+\RaggedLeftParfillskip=\skip59
+\RaggedRightParfillskip=\skip60
+\JustifyingParfillskip=\skip61
+\CenteringParindent=\skip62
+\RaggedLeftParindent=\skip63
+\RaggedRightParindent=\skip64
+\JustifyingParindent=\skip65
+)
+(D:\OtherSoftware\latex\miktex\tex/latex/physics\physics.sty
+Package: physics 
+
+(D:\OtherSoftware\latex\miktex\tex/latex/l3packages/xparse\xparse.sty
+(D:\OtherSoftware\latex\miktex\tex/latex/l3kernel\expl3.sty
+Package: expl3 2020-06-18 L3 programming layer (loader) 
+
+(D:\OtherSoftware\latex\miktex\tex/latex/l3backend\l3backend-pdfmode.def
+File: l3backend-pdfmode.def 2020-06-29 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count193
+\l__pdf_internal_box=\box48
+))
+Package: xparse 2020-05-15 L3 Experimental document command parser
+
+(D:\OtherSoftware\latex\miktex\tex/latex/l3packages/xparse\xparse-generic.tex
+\l__xparse_current_arg_int=\count194
+\g__xparse_grabber_int=\count195
+\l__xparse_m_args_int=\count196
+\l__xparse_v_nesting_int=\count197
+))) (D:\OtherSoftware\latex\miktex\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(D:\OtherSoftware\latex\miktex\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+
+(D:\OtherSoftware\latex\miktex\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+(D:\OtherSoftware\latex\miktex\tex/latex/microtype\microtype.sty
+Package: microtype 2019/11/18 v2.7d Micro-typographical refinements (RS)
+\MT@toks=\toks23
+\MT@count=\count198
+LaTeX Info: Redefining \textls on input line 790.
+\MT@outer@kern=\dimen146
+LaTeX Info: Redefining \textmicrotypecontext on input line 1354.
+\MT@listname@count=\count199
+
+(D:\OtherSoftware\latex\miktex\tex/latex/microtype\microtype-pdftex.def
+File: microtype-pdftex.def 2019/11/18 v2.7d Definitions specific to pdftex (RS)
+
+LaTeX Info: Redefining \lsstyle on input line 914.
+LaTeX Info: Redefining \lslig on input line 914.
+\MT@outer@space=\skip66
+)
+Package microtype Info: Loading configuration file microtype.cfg.
+
+(D:\OtherSoftware\latex\miktex\tex/latex/microtype\microtype.cfg
+File: microtype.cfg 2019/11/18 v2.7d microtype main configuration file (RS)
+))
+(C:\Users\asus\AppData\Roaming\MiKTeX\tex/latex/ctex\ctex.sty
+Package: ctex 2020/08/23 v2.5.4 Chinese adapter in LaTeX (CTEX)
+
+(D:\OtherSoftware\latex\miktex\tex/latex/l3packages/l3keys2e\l3keys2e.sty
+Package: l3keys2e 2020-05-15 LaTeX2e option processing using LaTeX3 keys
+)
+
+! Package ctex Error: Support package `expl3' too old.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.56 ...or:nnn { ctex } { l3-too-old } { expl3 } }
+                                                  
+? 
+(C:\Users\asus\AppData\Roaming\MiKTeX\tex/latex/ctex\ctexhook.sty
+Package: ctexhook 2020/08/23 v2.5.4 Document and package hooks (CTEX)
+)
+(C:\Users\asus\AppData\Roaming\MiKTeX\tex/latex/ctex\ctexpatch.sty
+Package: ctexpatch 2020/08/23 v2.5.4 Patching commands (CTEX)
+)
+(D:\OtherSoftware\latex\miktex\tex/latex/base\fix-cm.sty
+Package: fix-cm 2015/01/14 v1.1t fixes to LaTeX
+
+(D:\OtherSoftware\latex\miktex\tex/latex/base\ts1enc.def
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding TS1 on input line 47.
+))
+\l__ctex_tmp_int=\count266
+\l__ctex_tmp_box=\box49
+\l__ctex_tmp_dim=\dimen147
+
+! Undefined control sequence.
+l.89 \cctab_const:Nn
+                     \c__ctex_package_cctab
+? 
+! Undefined control sequence.
+l.89 \cctab_const:Nn \c__ctex_package_cctab
+                                           
+? 
+! Undefined control sequence.
+l.91     \cctab_select:N
+                         \c_document_cctab
+? 
+! Undefined control sequence.
+l.91     \cctab_select:N \c_document_cctab
+                                          
+? 
+\g__ctex_section_depth_int=\count267
+\g__ctex_font_size_int=\count268
+! Undefined control sequence.
+\ctex_file_input:n #1->\cctab_begin:N 
+                                      \c__ctex_package_cctab \file_input:n {...
+l.325 \ctex_file_input:n { ctexopts.cfg }
+                                         
+? 
+! Undefined control sequence.
+\ctex_file_input:n ...in:N \c__ctex_package_cctab 
+                                                  \file_input:n {#1}\cctab_e...
+l.325 \ctex_file_input:n { ctexopts.cfg }
+                                         
+? 
+(C:\Users\asus\AppData\Roaming\MiKTeX\tex/latex/ctex/config\ctexopts.cfg
+File: ctexopts.cfg 2020/08/23 v2.5.4 Option configuration file (CTEX)
+)
+! Undefined control sequence.
+\ctex_file_input:n ...ile_input:n {#1}\cctab_end: 
+                                                  
+l.325 \ctex_file_input:n { ctexopts.cfg }
+                                         
+? 
+! Undefined control sequence.
+\ctex_file_input:n #1->\cctab_begin:N 
+                                      \c__ctex_package_cctab \file_input:n {...
+l.344 ...file_input:n { \c__ctex_engine_file_str }
+                                                  
+? 
+! Undefined control sequence.
+\ctex_file_input:n ...in:N \c__ctex_package_cctab 
+                                                  \file_input:n {#1}\cctab_e...
+l.344 ...file_input:n { \c__ctex_engine_file_str }
+                                                  
+? 
+
+(C:\Users\asus\AppData\Roaming\MiKTeX\tex/latex/ctex/engine\ctex-engine-pdftex.
+def
+File: ctex-engine-pdftex.def 2020/08/23 v2.5.4 (pdf)LaTeX adapter (CTEX)
+ (D:\OtherSoftware\latex\miktex\tex/latex/cjk\CJKutf8.sty
+Package: CJKutf8 2015/04/18 4.8.4
+
+(D:\OtherSoftware\latex\miktex\tex/generic/iftex\ifpdf.sty
+Package: ifpdf 2019/10/25 v3.4 ifpdf legacy package. Use iftex instead.
+)
+(D:\OtherSoftware\latex\miktex\tex/latex/base\inputenc.sty
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks24
+\inpenc@posthook=\toks25
+)
+(D:\OtherSoftware\latex\miktex\tex/latex/cjk\CJK.sty
+Package: CJK 2015/04/18 4.8.4
+
+(D:\OtherSoftware\latex\miktex\tex/latex/cjk/mule\MULEenc.sty
+Package: MULEenc 2015/04/18 4.8.4
+)
+(D:\OtherSoftware\latex\miktex\tex/latex/cjk\CJK.enc
+File: CJK.enc 2015/04/18 4.8.4
+Now handling font encoding C00 ...
+... no UTF-8 mapping file for font encoding C00
+Now handling font encoding C05 ...
+... no UTF-8 mapping file for font encoding C05
+Now handling font encoding C09 ...
+... no UTF-8 mapping file for font encoding C09
+Now handling font encoding C10 ...
+... no UTF-8 mapping file for font encoding C10
+Now handling font encoding C20 ...
+... no UTF-8 mapping file for font encoding C20
+Now handling font encoding C19 ...
+... no UTF-8 mapping file for font encoding C19
+Now handling font encoding C40 ...
+... no UTF-8 mapping file for font encoding C40
+Now handling font encoding C42 ...
+... no UTF-8 mapping file for font encoding C42
+Now handling font encoding C43 ...
+... no UTF-8 mapping file for font encoding C43
+Now handling font encoding C50 ...
+... no UTF-8 mapping file for font encoding C50
+Now handling font encoding C52 ...
+... no UTF-8 mapping file for font encoding C52
+Now handling font encoding C49 ...
+... no UTF-8 mapping file for font encoding C49
+Now handling font encoding C60 ...
+... no UTF-8 mapping file for font encoding C60
+Now handling font encoding C61 ...
+... no UTF-8 mapping file for font encoding C61
+Now handling font encoding C63 ...
+... no UTF-8 mapping file for font encoding C63
+Now handling font encoding C64 ...
+... no UTF-8 mapping file for font encoding C64
+Now handling font encoding C65 ...
+... no UTF-8 mapping file for font encoding C65
+Now handling font encoding C70 ...
+... no UTF-8 mapping file for font encoding C70
+Now handling font encoding C31 ...
+... no UTF-8 mapping file for font encoding C31
+Now handling font encoding C32 ...
+... no UTF-8 mapping file for font encoding C32
+Now handling font encoding C33 ...
+... no UTF-8 mapping file for font encoding C33
+Now handling font encoding C34 ...
+... no UTF-8 mapping file for font encoding C34
+Now handling font encoding C35 ...
+... no UTF-8 mapping file for font encoding C35
+Now handling font encoding C36 ...
+... no UTF-8 mapping file for font encoding C36
+Now handling font encoding C37 ...
+... no UTF-8 mapping file for font encoding C37
+Now handling font encoding C80 ...
+... no UTF-8 mapping file for font encoding C80
+Now handling font encoding C81 ...
+... no UTF-8 mapping file for font encoding C81
+Now handling font encoding C01 ...
+... no UTF-8 mapping file for font encoding C01
+Now handling font encoding C11 ...
+... no UTF-8 mapping file for font encoding C11
+Now handling font encoding C21 ...
+... no UTF-8 mapping file for font encoding C21
+Now handling font encoding C41 ...
+... no UTF-8 mapping file for font encoding C41
+Now handling font encoding C62 ...
+... no UTF-8 mapping file for font encoding C62
+)
+LaTeX Info: Redefining \selectfont on input line 755.
+\CJK@indent=\box50
+)
+(D:\OtherSoftware\latex\miktex\tex/latex/base\fontenc.sty
+Package: fontenc 2020/02/11 v2.0o Standard LaTeX package
+))
+(D:\OtherSoftware\latex\miktex\tex/latex/cjkpunct\CJKpunct.sty
+Package: CJKpunct 2016/05/14 4.8.4
+\CJKpunct@cnta=\count269
+\CJKpunct@cntb=\count270
+\CJKpunct@cntc=\count271
+\CJKpunct@cntd=\count272
+\CJKpunct@cnte=\count273
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2026 (decimal 8230)
+
+(D:\OtherSoftware\latex\miktex\tex/latex/cjkpunct\CJKpunct.spa))
+(D:\OtherSoftware\latex\miktex\tex/latex/cjk\CJKspace.sty
+Package: CJKspace 2015/04/18 3.8.0
+)
+! Undefined control sequence.
+l.115 \cctab_const:Nn
+                      \c__ctex_CJK_cctab
+? 
+! Undefined control sequence.
+l.115 \cctab_const:Nn \c__ctex_CJK_cctab
+                                        
+? 
+! Undefined control sequence.
+l.117     \cctab_select:N
+                          \c__ctex_package_cctab
+? 
+! Undefined control sequence.
+l.117     \cctab_select:N \c__ctex_package_cctab
+                                                
+? 
+! Undefined control sequence.
+\ctex_file_input:n #1->\cctab_begin:N 
+                                      \c__ctex_package_cctab \file_input:n {...
+l.223 \ctex_file_input:n { ctexspa.def }
+                                        
+? 
+! Undefined control sequence.
+\ctex_file_input:n ...in:N \c__ctex_package_cctab 
+                                                  \file_input:n {#1}\cctab_e...
+l.223 \ctex_file_input:n { ctexspa.def }
+                                        
+? 
+(C:\Users\asus\AppData\Roaming\MiKTeX\tex/latex/ctex\ctexspa.def
+File: ctexspa.def 2020/08/23 v2.5.4 Space info for CJKpunct (CTEX)
+)
+! Undefined control sequence.
+\ctex_file_input:n ...ile_input:n {#1}\cctab_end: 
+                                                  
+l.223 \ctex_file_input:n { ctexspa.def }
+                                        
+? 
+\ccwd=\dimen148
+\l__ctex_ccglue_skip=\skip67
+)
+! Undefined control sequence.
+\ctex_file_input:n ...ile_input:n {#1}\cctab_end: 
+                                                  
+l.344 ...file_input:n { \c__ctex_engine_file_str }
+                                                  
+? 
+\l__ctex_ziju_dim=\dimen149
+(D:\OtherSoftware\latex\miktex\tex/latex/zhnumber\zhnumber.sty
+Package: zhnumber 2020/05/01 v2.8 Typesetting numbers with Chinese glyphs
+\l__zhnum_scale_int=\count274
+\l__zhnum_byte_min_int=\count275
+\l__zhnum_byte_max_int=\count276
+
+(D:\OtherSoftware\latex\miktex\tex/latex/zhnumber\zhnumber-utf8.cfg
+File: zhnumber-utf8.cfg 2020/05/01 v2.8 Chinese numerals with UTF8 encoding
+))
+! Undefined control sequence.
+\ctex_scheme_input:n #1->\cctab_begin:N 
+                                        \c__ctex_package_cctab \tl_if_exist:...
+l.621 ...x_scheme_input:o { \l__ctex_scheme_tl } }
+                                                  
+? 
+! Undefined control sequence.
+\ctex_scheme_input:n ...:N \c__ctex_package_cctab 
+                                                  \tl_if_exist:NTF \c__ctex_...
+l.621 ...x_scheme_input:o { \l__ctex_scheme_tl } }
+                                                  
+? 
+
+(C:\Users\asus\AppData\Roaming\MiKTeX\tex/latex/ctex/scheme\ctex-scheme-chinese
+.def
+File: ctex-scheme-chinese.def 2020/08/23 v2.5.4 Chinese scheme for generic (CTE
+X)
+
+! Undefined control sequence.
+\ctex_file_input:n #1->\cctab_begin:N 
+                                      \c__ctex_package_cctab \file_input:n {...
+l.60   }
+        
+? 
+! Undefined control sequence.
+\ctex_file_input:n ...in:N \c__ctex_package_cctab 
+                                                  \file_input:n {#1}\cctab_e...
+l.60   }
+        
+? 
+(C:\Users\asus\AppData\Roaming\MiKTeX\tex/latex/ctex/config\ctex-name-utf8.cfg
+File: ctex-name-utf8.cfg 2020/08/23 v2.5.4 Caption with encoding UTF-8 (CTEX)
+)
+! Undefined control sequence.
+\ctex_file_input:n ...ile_input:n {#1}\cctab_end: 
+                                                  
+l.60   }
+        
+? 
+) (D:\OtherSoftware\latex\miktex\tex/latex/tools\indentfirst.sty
+Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
+)
+! Undefined control sequence.
+\ctex_scheme_input:n ...cheme-#1.def}}\cctab_end: 
+                                                  
+l.621 ...x_scheme_input:o { \l__ctex_scheme_tl } }
+                                                  
+? 
+! Undefined control sequence.
+\ctex_file_input:n #1->\cctab_begin:N 
+                                      \c__ctex_package_cctab \file_input:n {...
+l.718   }
+         
+? 
+! Undefined control sequence.
+\ctex_file_input:n ...in:N \c__ctex_package_cctab 
+                                                  \file_input:n {#1}\cctab_e...
+l.718   }
+         
+? 
+(C:\Users\asus\AppData\Roaming\MiKTeX\tex/latex/ctex\ctex-c5size.clo
+File: ctex-c5size.clo 2020/08/23 v2.5.4 c5size option (CTEX)
+)
+! Undefined control sequence.
+\ctex_file_input:n ...ile_input:n {#1}\cctab_end: 
+                                                  
+l.718   }
+         
+? 
+! Undefined control sequence.
+\ctex_file_input:n #1->\cctab_begin:N 
+                                      \c__ctex_package_cctab \file_input:n {...
+l.831   { \ctex_load_fontset: }
+                               
+? 
+! Undefined control sequence.
+\ctex_file_input:n ...in:N \c__ctex_package_cctab 
+                                                  \file_input:n {#1}\cctab_e...
+l.831   { \ctex_load_fontset: }
+                               
+? 
+
+(C:\Users\asus\AppData\Roaming\MiKTeX\tex/latex/ctex/fontset\ctex-fontset-windo
+ws.def
+File: ctex-fontset-windows.def 2020/08/23 v2.5.4 Windows fonts definition (CTEX
+)
+)
+! Undefined control sequence.
+\ctex_file_input:n ...ile_input:n {#1}\cctab_end: 
+                                                  
+l.831   { \ctex_load_fontset: }
+                               
+? 
+)
+! Undefined control sequence.
+\ctex_file_input:n #1->\cctab_begin:N 
+                                      \c__ctex_package_cctab \file_input:n {...
+l.20 \linespread
+                {1}
+? 
+! Undefined control sequence.
+\ctex_file_input:n ...in:N \c__ctex_package_cctab 
+                                                  \file_input:n {#1}\cctab_e...
+l.20 \linespread
+                {1}
+? 
+(C:\Users\asus\AppData\Roaming\MiKTeX\tex/latex/ctex/config\ctex.cfg
+File: ctex.cfg 2020/08/23 v2.5.4 Configuration file (CTEX)
+)
+! Undefined control sequence.
+\ctex_file_input:n ...ile_input:n {#1}\cctab_end: 
+                                                  
+l.20 \linespread
+                {1}
+? 
+! Undefined control sequence.
+\CJK@input #1->\cctab_begin:N 
+                              \c__ctex_CJK_cctab \file_input:n {#1}\cctab_end: 
+l.22 \begin{document}
+                     
+? 
+! Undefined control sequence.
+\CJK@input #1->\cctab_begin:N \c__ctex_CJK_cctab 
+                                                 \file_input:n {#1}\cctab_end: 
+l.22 \begin{document}
+                     
+? 
+(D:\OtherSoftware\latex\miktex\tex/latex/cjk/UTF8\UTF8.bdg
+File: UTF8.bdg 2015/04/18 4.8.4
+
+! You can't use `\spacefactor' in vertical mode.
+\@->\spacefactor 
+                 \@m {}
+l.34 \global\@
+              namedef{CJK@UTF8Binding}{
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+l.34 \global\@
+              namedef{CJK@UTF8Binding}{
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.34 \global\@
+              namedef{CJK@UTF8Binding}{
+? 
+LaTeX Font Info:    Trying to load font information for U+msa on input line 34.
+
+(D:\OtherSoftware\latex\miktex\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 34.
+
+
+(D:\OtherSoftware\latex\miktex\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Trying to load font information for U+rsfs on input line 34
+.
+
+(D:\OtherSoftware\latex\miktex\tex/latex/jknappen\ursfs.fd
+File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
+)
+
+LaTeX Font Warning: Font shape `U/rsfs/m/n' in size <10.53937> not available
+(Font)              size <10.95> substituted on input line 34.
+
+LaTeX Font Info:    Trying to load font information for U+wasy on input line 34
+.
+(D:\OtherSoftware\latex\miktex\tex/latex/wasysym\uwasy.fd
+File: uwasy.fd 2020/01/19 v2.4 Wasy-2 symbol font definitions
+)
+
+LaTeX Font Warning: Font shape `U/wasy/m/n' in size <10.53937> not available
+(Font)              size <10.95> substituted on input line 34.
+
+
+! Package CJK Error: Encoding `@' is not defined.
+
+See the CJK package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.35   \CJK@n
+             amedef{^^80}
+? 
+! Missing \endcsname inserted.
+<to be read again> 
+                   \CJK@@@fontenc 
+l.35   \CJK@n
+             amedef{^^80}
+? 
+! Extra \endcsname.
+\CJKenc  ...csname CJK@#1\CJK@temp @enc\endcsname 
+                                                  \relax \PackageError {CJK}...
+l.35   \CJK@n
+             amedef{^^80}
+? 
+
+! Package CJK Error: Encoding `@\CJK@@@fontenc ' is not defined.
+
+See the CJK package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.35   \CJK@n
+             amedef{^^80}
+? 
+
+! Package inputenc Error: Invalid UTF-8 byte "80.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.35   \CJK@namedef{^^80
+                        }
+? 
+
+! Package inputenc Error: Invalid UTF-8 byte "81.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.36   \CJK@namedef{^^81
+                        }
+? 
+
+! Package inputenc Error: Invalid UTF-8 byte "82.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.37   \CJK@namedef{^^82
+                        }
+? 
+
+! Package inputenc Error: Invalid UTF-8 byte "83.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.38   \CJK@namedef{^^83
+                        }
+? 
+
+! Package inputenc Error: Invalid UTF-8 byte "84.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.39   \CJK@namedef{^^84
+                        }
+? 
+
+! Package inputenc Error: Invalid UTF-8 byte "85.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.40   \CJK@namedef{^^85
+                        }
+? 
+
+! Package inputenc Error: Invalid UTF-8 byte "86.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.41   \CJK@namedef{^^86
+                        }
+? 
+
+! Package inputenc Error: Invalid UTF-8 byte "87.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.42   \CJK@namedef{^^87
+                        }
+? 
+
+! Package inputenc Error: Invalid UTF-8 byte "88.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.43   \CJK@namedef{^^88
+                        }
+? 
+
+! Package inputenc Error: Invalid UTF-8 byte "89.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.44   \CJK@namedef{^^89
+                        }
+? 
+
+! Package inputenc Error: Invalid UTF-8 byte "8A.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.45   \CJK@namedef{^^8a
+                        }
+? 
+
+! Package inputenc Error: Invalid UTF-8 byte "8B.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.46   \CJK@namedef{^^8b
+                        }
+? 
+
+! Package inputenc Error: Invalid UTF-8 byte "8C.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.47   \CJK@namedef{^^8c
+                        }
+? 
+
+! Package inputenc Error: Invalid UTF-8 byte "8D.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.48   \CJK@namedef{^^8d
+                        }
+? 
+
+! Package inputenc Error: Invalid UTF-8 byte "8E.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.49   \CJK@namedef{^^8e
+                        }
+? 
+
+! Package inputenc Error: Invalid UTF-8 byte "8F.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.50   \CJK@namedef{^^8f
+                        }
+? 
+
+! Package inputenc Error: Invalid UTF-8 byte "90.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.51   \CJK@namedef{^^90
+                        }
+? 
+
+! Package inputenc Error: Invalid UTF-8 byte "91.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.52   \CJK@namedef{^^91
+                        }
+? 
+
+! Package inputenc Error: Invalid UTF-8 byte "92.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.53   \CJK@namedef{^^92
+                        }
+? 
+
+! Package inputenc Error: Invalid UTF-8 byte "93.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.54   \CJK@namedef{^^93
+                        }
+? 
+
+! Package inputenc Error: Invalid UTF-8 byte "94.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.55   \CJK@namedef{^^94
+                        }
+? 
+
+! Package inputenc Error: Invalid UTF-8 byte "95.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.56   \CJK@namedef{^^95
+                        }
+? 
+
+! Package inputenc Error: Invalid UTF-8 byte "96.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.57   \CJK@namedef{^^96
+                        }
+? 
+
+! Package inputenc Error: Invalid UTF-8 byte "97.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.58   \CJK@namedef{^^97
+                        }
+? 
+
+! Package inputenc Error: Invalid UTF-8 byte "98.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.59   \CJK@namedef{^^98
+                        }
+? 
+
+! Package inputenc Error: Invalid UTF-8 byte "99.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.60   \CJK@namedef{^^99
+                        }
+? 
+
+! Package inputenc Error: Invalid UTF-8 byte "9A.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.61   \CJK@namedef{^^9a
+                        }
+? 
+
+! Package inputenc Error: Invalid UTF-8 byte "9B.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.62   \CJK@namedef{^^9b
+                        }
+? 
+
+! Package inputenc Error: Invalid UTF-8 byte "9C.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.63   \CJK@namedef{^^9c
+                        }
+? 
+
+! Package inputenc Error: Invalid UTF-8 byte "9D.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.64   \CJK@namedef{^^9d
+                        }
+? 
+
+! Package inputenc Error: Invalid UTF-8 byte "9E.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.65   \CJK@namedef{^^9e
+                        }
+? 
+
+! Package inputenc Error: Invalid UTF-8 byte "9F.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.66   \CJK@namedef{^^9f
+                        }
+? 
+
+! Package inputenc Error: Invalid UTF-8 byte "A0.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.67   \CJK@namedef{^^a0
+                        }
+? 
+
+! Package inputenc Error: Invalid UTF-8 byte "A1.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.68   \CJK@namedef{^^a1
+                        }
+? 
+
+! Package inputenc Error: Invalid UTF-8 byte "A2.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.69   \CJK@namedef{^^a2
+                        }
+? 
+
+! Package inputenc Error: Invalid UTF-8 byte "A3.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.70   \CJK@namedef{^^a3
+                        }
+? 
+
+! Package inputenc Error: Invalid UTF-8 byte "A4.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.71   \CJK@namedef{^^a4
+                        }
+? 
+
+! Package inputenc Error: Invalid UTF-8 byte "A5.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.72   \CJK@namedef{^^a5
+                        }
+? 
+
+! Package inputenc Error: Invalid UTF-8 byte "A6.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.73   \CJK@namedef{^^a6
+                        }
+? 
+
+! Package inputenc Error: Invalid UTF-8 byte "A7.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.74   \CJK@namedef{^^a7
+                        }
+? 
+
+! Package inputenc Error: Invalid UTF-8 byte "A8.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.75   \CJK@namedef{^^a8
+                        }
+? 
+
+! Package inputenc Error: Invalid UTF-8 byte "A9.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.76   \CJK@namedef{^^a9
+                        }
+? 
+
+! Package inputenc Error: Invalid UTF-8 byte "AA.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.77   \CJK@namedef{^^aa
+                        }
+? 
+
+! Package inputenc Error: Invalid UTF-8 byte "AB.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.78   \CJK@namedef{^^ab
+                        }
+? 
+
+! Package inputenc Error: Invalid UTF-8 byte "AC.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.79   \CJK@namedef{^^ac
+                        }
+? 
+
+! Package inputenc Error: Invalid UTF-8 byte "AD.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.80   \CJK@namedef{^^ad
+                        }
+? 
+
+! Package inputenc Error: Invalid UTF-8 byte "AE.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.81   \CJK@namedef{^^ae
+                        }
+? 
+
+! Package inputenc Error: Invalid UTF-8 byte "AF.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.82   \CJK@namedef{^^af
+                        }
+? 
+
+! Package inputenc Error: Invalid UTF-8 byte "B0.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.83   \CJK@namedef{^^b0
+                        }
+? 
+
+! Package inputenc Error: Invalid UTF-8 byte "B1.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.84   \CJK@namedef{^^b1
+                        }
+? 
+
+! Package inputenc Error: Invalid UTF-8 byte "B2.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.85   \CJK@namedef{^^b2
+                        }
+? 
+
+! Package inputenc Error: Invalid UTF-8 byte "B3.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.86   \CJK@namedef{^^b3
+                        }
+? 
+
+! Package inputenc Error: Invalid UTF-8 byte "B4.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.87   \CJK@namedef{^^b4
+                        }
+? 
+
+! Package inputenc Error: Invalid UTF-8 byte "B5.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.88   \CJK@namedef{^^b5
+                        }
+? 
+
+! Package inputenc Error: Invalid UTF-8 byte "B6.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.89   \CJK@namedef{^^b6
+                        }
+? 
+
+! Package inputenc Error: Invalid UTF-8 byte "B7.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.90   \CJK@namedef{^^b7
+                        }
+? 
+
+! Package inputenc Error: Invalid UTF-8 byte "B8.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.91   \CJK@namedef{^^b8
+                        }
+? 
+
+! Package inputenc Error: Invalid UTF-8 byte "B9.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.92   \CJK@namedef{^^b9
+                        }
+? 
+
+! Package inputenc Error: Invalid UTF-8 byte "BA.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.93   \CJK@namedef{^^ba
+                        }
+? 
+
+! Package inputenc Error: Invalid UTF-8 byte "BB.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.94   \CJK@namedef{^^bb
+                        }
+? 
+
+! Package inputenc Error: Invalid UTF-8 byte "BC.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.95   \CJK@namedef{^^bc
+                        }
+? 
+
+! Package inputenc Error: Invalid UTF-8 byte "BD.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.96   \CJK@namedef{^^bd
+                        }
+? 
+
+! Package inputenc Error: Invalid UTF-8 byte "BE.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.97   \CJK@namedef{^^be
+                        }
+? 
+
+! Package inputenc Error: Invalid UTF-8 byte "BF.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.98   \CJK@namedef{^^bf
+                        }
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+l.99 
+     
+? 
+! Missing } inserted.
+<inserted text> 
+                }
+l.99 
+     
+? 
+Missing character: There is no � in font cmex10!
+
+Overfull \hbox (3216.57558pt too wide) in paragraph at lines 34--99
+[]$[]\OML/cmm/m/it/10.53937 namedef[][]$ 
+ []
+
+
+! Package CJK Error: Encoding `@' is not defined.
+
+See the CJK package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.100   \CJK@n
+              ameppdef{^^c0}
+? 
+! Missing \endcsname inserted.
+<to be read again> 
+                   \CJK@@@fontenc 
+l.100   \CJK@n
+              ameppdef{^^c0}
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.100   \CJK@n
+              ameppdef{^^c0}
+? 
+! Extra \endcsname.
+\CJKenc  ...csname CJK@#1\CJK@temp @enc\endcsname 
+                                                  \relax \PackageError {CJK}...
+l.100   \CJK@n
+              ameppdef{^^c0}
+? 
+
+! Package CJK Error: Encoding `@\CJK@@@fontenc ' is not defined.
+
+See the CJK package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.100   \CJK@n
+              ameppdef{^^c0}
+? 
+
+! Package inputenc Error: Invalid UTF-8 byte "C0.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.100   \CJK@nameppdef{^^c0
+                           }
+? 
+
+! Package inputenc Error: Invalid UTF-8 byte "C1.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.101   \CJK@nameppdef{^^c1
+                           }
+? 
+! Argument of \UTFviii@two@octets@combine has an extra }.
+<inserted text> 
+                \par 
+l.102   \CJK@nameppdef{^^c2}
+                            
+? 
+Runaway argument?
+! Paragraph ended before \UTFviii@two@octets@combine was complete.
+<to be read again> 
+                   \par 
+l.102   \CJK@nameppdef{^^c2}
+                            
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.103   \CJK@n
+              ameppdef{^^c3}
+? 
+! Argument of \UTFviii@two@octets@combine has an extra }.
+<inserted text> 
+                \par 
+l.103   \CJK@nameppdef{^^c3}
+                            
+? 
+Runaway argument?
+! Paragraph ended before \UTFviii@two@octets@combine was complete.
+<to be read again> 
+                   \par 
+l.103   \CJK@nameppdef{^^c3}
+                            
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.104   \CJK@n
+              ameppdef{^^c4}
+? 
+! Argument of \UTFviii@two@octets@combine has an extra }.
+<inserted text> 
+                \par 
+l.104   \CJK@nameppdef{^^c4}
+                            
+? 
+Runaway argument?
+! Paragraph ended before \UTFviii@two@octets@combine was complete.
+<to be read again> 
+                   \par 
+l.104   \CJK@nameppdef{^^c4}
+                            
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.105   \CJK@n
+              ameppdef{^^c5}
+? 
+! Argument of \UTFviii@two@octets@combine has an extra }.
+<inserted text> 
+                \par 
+l.105   \CJK@nameppdef{^^c5}
+                            
+? 
+Runaway argument?
+! Paragraph ended before \UTFviii@two@octets@combine was complete.
+<to be read again> 
+                   \par 
+l.105   \CJK@nameppdef{^^c5}
+                            
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.106   \CJK@n
+              ameppdef{^^c6}
+? 
+! Argument of \UTFviii@two@octets@combine has an extra }.
+<inserted text> 
+                \par 
+l.106   \CJK@nameppdef{^^c6}
+                            
+? 
+Runaway argument?
+! Paragraph ended before \UTFviii@two@octets@combine was complete.
+<to be read again> 
+                   \par 
+l.106   \CJK@nameppdef{^^c6}
+                            
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.107   \CJK@n
+              ameppdef{^^c7}
+? 
+! Argument of \UTFviii@two@octets@combine has an extra }.
+<inserted text> 
+                \par 
+l.107   \CJK@nameppdef{^^c7}
+                            
+? 
+Runaway argument?
+! Paragraph ended before \UTFviii@two@octets@combine was complete.
+<to be read again> 
+                   \par 
+l.107   \CJK@nameppdef{^^c7}
+                            
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.108   \CJK@n
+              ameppdef{^^c8}
+? 
+! Argument of \UTFviii@two@octets@combine has an extra }.
+<inserted text> 
+                \par 
+l.108   \CJK@nameppdef{^^c8}
+                            
+? 
+Runaway argument?
+! Paragraph ended before \UTFviii@two@octets@combine was complete.
+<to be read again> 
+                   \par 
+l.108   \CJK@nameppdef{^^c8}
+                            
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.109   \CJK@n
+              ameppdef{^^c9}
+? 
+! Argument of \UTFviii@two@octets@combine has an extra }.
+<inserted text> 
+                \par 
+l.109   \CJK@nameppdef{^^c9}
+                            
+? 
+Runaway argument?
+! Paragraph ended before \UTFviii@two@octets@combine was complete.
+<to be read again> 
+                   \par 
+l.109   \CJK@nameppdef{^^c9}
+                            
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.110   \CJK@n
+              ameppdef{^^ca}
+? 
+! Argument of \UTFviii@two@octets@combine has an extra }.
+<inserted text> 
+                \par 
+l.110   \CJK@nameppdef{^^ca}
+                            
+? 
+Runaway argument?
+! Paragraph ended before \UTFviii@two@octets@combine was complete.
+<to be read again> 
+                   \par 
+l.110   \CJK@nameppdef{^^ca}
+                            
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.111   \CJK@n
+              ameppdef{^^cb}
+? 
+! Argument of \UTFviii@two@octets@combine has an extra }.
+<inserted text> 
+                \par 
+l.111   \CJK@nameppdef{^^cb}
+                            
+? 
+Runaway argument?
+! Paragraph ended before \UTFviii@two@octets@combine was complete.
+<to be read again> 
+                   \par 
+l.111   \CJK@nameppdef{^^cb}
+                            
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.112   \CJK@n
+              ameppdef{^^cc}
+? 
+! Argument of \UTFviii@two@octets@combine has an extra }.
+<inserted text> 
+                \par 
+l.112   \CJK@nameppdef{^^cc}
+                            
+? 
+Runaway argument?
+! Paragraph ended before \UTFviii@two@octets@combine was complete.
+<to be read again> 
+                   \par 
+l.112   \CJK@nameppdef{^^cc}
+                            
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.113   \CJK@n
+              ameppdef{^^cd}
+? 
+! Argument of \UTFviii@two@octets@combine has an extra }.
+<inserted text> 
+                \par 
+l.113   \CJK@nameppdef{^^cd}
+                            
+? 
+Runaway argument?
+! Paragraph ended before \UTFviii@two@octets@combine was complete.
+<to be read again> 
+                   \par 
+l.113   \CJK@nameppdef{^^cd}
+                            
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.114   \CJK@n
+              ameppdef{^^ce}
+? 
+! Argument of \UTFviii@two@octets@combine has an extra }.
+<inserted text> 
+                \par 
+l.114   \CJK@nameppdef{^^ce}
+                            
+? 
+Runaway argument?
+! Paragraph ended before \UTFviii@two@octets@combine was complete.
+<to be read again> 
+                   \par 
+l.114   \CJK@nameppdef{^^ce}
+                            
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.115   \CJK@n
+              ameppdef{^^cf}
+? 
+! Argument of \UTFviii@two@octets@combine has an extra }.
+<inserted text> 
+                \par 
+l.115   \CJK@nameppdef{^^cf}
+                            
+? 
+Runaway argument?
+! Paragraph ended before \UTFviii@two@octets@combine was complete.
+<to be read again> 
+                   \par 
+l.115   \CJK@nameppdef{^^cf}
+                            
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.116   \CJK@n
+              ameppdef{^^d0}
+? 
+! Argument of \UTFviii@two@octets@combine has an extra }.
+<inserted text> 
+                \par 
+l.116   \CJK@nameppdef{^^d0}
+                            
+? 
+Runaway argument?
+! Paragraph ended before \UTFviii@two@octets@combine was complete.
+<to be read again> 
+                   \par 
+l.116   \CJK@nameppdef{^^d0}
+                            
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.117   \CJK@n
+              ameppdef{^^d1}
+? 
+! Argument of \UTFviii@two@octets@combine has an extra }.
+<inserted text> 
+                \par 
+l.117   \CJK@nameppdef{^^d1}
+                            
+? 
+Runaway argument?
+! Paragraph ended before \UTFviii@two@octets@combine was complete.
+<to be read again> 
+                   \par 
+l.117   \CJK@nameppdef{^^d1}
+                            
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.118   \CJK@n
+              ameppdef{^^d2}
+? 
+! Argument of \UTFviii@two@octets@combine has an extra }.
+<inserted text> 
+                \par 
+l.118   \CJK@nameppdef{^^d2}
+                            
+? 
+Runaway argument?
+! Paragraph ended before \UTFviii@two@octets@combine was complete.
+<to be read again> 
+                   \par 
+l.118   \CJK@nameppdef{^^d2}
+                            
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.119   \CJK@n
+              ameppdef{^^d3}
+? 
+! Argument of \UTFviii@two@octets@combine has an extra }.
+<inserted text> 
+                \par 
+l.119   \CJK@nameppdef{^^d3}
+                            
+? 
+Runaway argument?
+! Paragraph ended before \UTFviii@two@octets@combine was complete.
+<to be read again> 
+                   \par 
+l.119   \CJK@nameppdef{^^d3}
+                            
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.120   \CJK@n
+              ameppdef{^^d4}
+? 
+! Argument of \UTFviii@two@octets@combine has an extra }.
+<inserted text> 
+                \par 
+l.120   \CJK@nameppdef{^^d4}
+                            
+? 
+Runaway argument?
+! Paragraph ended before \UTFviii@two@octets@combine was complete.
+<to be read again> 
+                   \par 
+l.120   \CJK@nameppdef{^^d4}
+                            
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.121   \CJK@n
+              ameppdef{^^d5}
+? 
+! Argument of \UTFviii@two@octets@combine has an extra }.
+<inserted text> 
+                \par 
+l.121   \CJK@nameppdef{^^d5}
+                            
+? 
+Runaway argument?
+! Paragraph ended before \UTFviii@two@octets@combine was complete.
+<to be read again> 
+                   \par 
+l.121   \CJK@nameppdef{^^d5}
+                            
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.122   \CJK@n
+              ameppdef{^^d6}
+? 
+! Argument of \UTFviii@two@octets@combine has an extra }.
+<inserted text> 
+                \par 
+l.122   \CJK@nameppdef{^^d6}
+                            
+? 
+Runaway argument?
+! Paragraph ended before \UTFviii@two@octets@combine was complete.
+<to be read again> 
+                   \par 
+l.122   \CJK@nameppdef{^^d6}
+                            
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.123   \CJK@n
+              ameppdef{^^d7}
+? 
+! Argument of \UTFviii@two@octets@combine has an extra }.
+<inserted text> 
+                \par 
+l.123   \CJK@nameppdef{^^d7}
+                            
+? 
+Runaway argument?
+! Paragraph ended before \UTFviii@two@octets@combine was complete.
+<to be read again> 
+                   \par 
+l.123   \CJK@nameppdef{^^d7}
+                            
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.124   \CJK@n
+              ameppdef{^^d8}
+? 
+! Argument of \UTFviii@two@octets@combine has an extra }.
+<inserted text> 
+                \par 
+l.124   \CJK@nameppdef{^^d8}
+                            
+? 
+Runaway argument?
+! Paragraph ended before \UTFviii@two@octets@combine was complete.
+<to be read again> 
+                   \par 
+l.124   \CJK@nameppdef{^^d8}
+                            
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.125   \CJK@n
+              ameppdef{^^d9}
+? 
+! Argument of \UTFviii@two@octets@combine has an extra }.
+<inserted text> 
+                \par 
+l.125   \CJK@nameppdef{^^d9}
+                            
+? 
+Runaway argument?
+! Paragraph ended before \UTFviii@two@octets@combine was complete.
+<to be read again> 
+                   \par 
+l.125   \CJK@nameppdef{^^d9}
+                            
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.126   \CJK@n
+              ameppdef{^^da}
+? 
+! Argument of \UTFviii@two@octets@combine has an extra }.
+<inserted text> 
+                \par 
+l.126   \CJK@nameppdef{^^da}
+                            
+? 
+Runaway argument?
+! Paragraph ended before \UTFviii@two@octets@combine was complete.
+<to be read again> 
+                   \par 
+l.126   \CJK@nameppdef{^^da}
+                            
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.127   \CJK@n
+              ameppdef{^^db}
+? 
+! Argument of \UTFviii@two@octets@combine has an extra }.
+<inserted text> 
+                \par 
+l.127   \CJK@nameppdef{^^db}
+                            
+? 
+Runaway argument?
+! Paragraph ended before \UTFviii@two@octets@combine was complete.
+<to be read again> 
+                   \par 
+l.127   \CJK@nameppdef{^^db}
+                            
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.128   \CJK@n
+              ameppdef{^^dc}
+? 
+! Argument of \UTFviii@two@octets@combine has an extra }.
+<inserted text> 
+                \par 
+l.128   \CJK@nameppdef{^^dc}
+                            
+? 
+Runaway argument?
+! Paragraph ended before \UTFviii@two@octets@combine was complete.
+<to be read again> 
+                   \par 
+l.128   \CJK@nameppdef{^^dc}
+                            
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.129   \CJK@n
+              ameppdef{^^dd}
+? 
+! Argument of \UTFviii@two@octets@combine has an extra }.
+<inserted text> 
+                \par 
+l.129   \CJK@nameppdef{^^dd}
+                            
+? 
+Runaway argument?
+! Paragraph ended before \UTFviii@two@octets@combine was complete.
+<to be read again> 
+                   \par 
+l.129   \CJK@nameppdef{^^dd}
+                            
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.130   \CJK@n
+              ameppdef{^^de}
+? 
+! Argument of \UTFviii@two@octets@combine has an extra }.
+<inserted text> 
+                \par 
+l.130   \CJK@nameppdef{^^de}
+                            
+? 
+Runaway argument?
+! Paragraph ended before \UTFviii@two@octets@combine was complete.
+<to be read again> 
+                   \par 
+l.130   \CJK@nameppdef{^^de}
+                            
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.131   \CJK@n
+              ameppdef{^^df}
+? 
+! Argument of \UTFviii@two@octets@combine has an extra }.
+<inserted text> 
+                \par 
+l.131   \CJK@nameppdef{^^df}
+                            
+? 
+Runaway argument?
+! Paragraph ended before \UTFviii@two@octets@combine was complete.
+<to be read again> 
+                   \par 
+l.131   \CJK@nameppdef{^^df}
+                            
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.133   \CJK@n
+              amepppdef{^^e0}
+? 
+! Argument of \UTFviii@three@octets@combine has an extra }.
+<inserted text> 
+                \par 
+l.133   \CJK@namepppdef{^^e0}
+                             
+? 
+Runaway argument?
+! Paragraph ended before \UTFviii@three@octets@combine was complete.
+<to be read again> 
+                   \par 
+l.133   \CJK@namepppdef{^^e0}
+                             
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.134   \CJK@n
+              amepppdef{^^e1}
+? 
+! Argument of \UTFviii@three@octets@combine has an extra }.
+<inserted text> 
+                \par 
+l.134   \CJK@namepppdef{^^e1}
+                             
+? 
+Runaway argument?
+! Paragraph ended before \UTFviii@three@octets@combine was complete.
+<to be read again> 
+                   \par 
+l.134   \CJK@namepppdef{^^e1}
+                             
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.135   \CJK@n
+              amepppdef{^^e2}
+? 
+! Argument of \UTFviii@three@octets@combine has an extra }.
+<inserted text> 
+                \par 
+l.135   \CJK@namepppdef{^^e2}
+                             
+? 
+Runaway argument?
+! Paragraph ended before \UTFviii@three@octets@combine was complete.
+<to be read again> 
+                   \par 
+l.135   \CJK@namepppdef{^^e2}
+                             
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.136   \CJK@n
+              amepppdef{^^e3}
+? 
+! Argument of \UTFviii@three@octets@combine has an extra }.
+<inserted text> 
+                \par 
+l.136   \CJK@namepppdef{^^e3}
+                             
+? 
+Runaway argument?
+! Paragraph ended before \UTFviii@three@octets@combine was complete.
+<to be read again> 
+                   \par 
+l.136   \CJK@namepppdef{^^e3}
+                             
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.137   \CJK@n
+              amepppdef{^^e4}
+? 
+! Argument of \UTFviii@three@octets@combine has an extra }.
+<inserted text> 
+                \par 
+l.137   \CJK@namepppdef{^^e4}
+                             
+? 
+Runaway argument?
+! Paragraph ended before \UTFviii@three@octets@combine was complete.
+<to be read again> 
+                   \par 
+l.137   \CJK@namepppdef{^^e4}
+                             
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.138   \CJK@n
+              amepppdef{^^e5}
+? 
+! Argument of \UTFviii@three@octets@combine has an extra }.
+<inserted text> 
+                \par 
+l.138   \CJK@namepppdef{^^e5}
+                             
+? 
+Runaway argument?
+! Paragraph ended before \UTFviii@three@octets@combine was complete.
+<to be read again> 
+                   \par 
+l.138   \CJK@namepppdef{^^e5}
+                             
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.139   \CJK@n
+              amepppdef{^^e6}
+? 
+! Argument of \UTFviii@three@octets@combine has an extra }.
+<inserted text> 
+                \par 
+l.139   \CJK@namepppdef{^^e6}
+                             
+? 
+Runaway argument?
+! Paragraph ended before \UTFviii@three@octets@combine was complete.
+<to be read again> 
+                   \par 
+l.139   \CJK@namepppdef{^^e6}
+                             
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.140   \CJK@n
+              amepppdef{^^e7}
+? 
+! Argument of \UTFviii@three@octets@combine has an extra }.
+<inserted text> 
+                \par 
+l.140   \CJK@namepppdef{^^e7}
+                             
+? 
+Runaway argument?
+! Paragraph ended before \UTFviii@three@octets@combine was complete.
+<to be read again> 
+                   \par 
+l.140   \CJK@namepppdef{^^e7}
+                             
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.141   \CJK@n
+              amepppdef{^^e8}
+? 
+! Argument of \UTFviii@three@octets@combine has an extra }.
+<inserted text> 
+                \par 
+l.141   \CJK@namepppdef{^^e8}
+                             
+? 
+Runaway argument?
+! Paragraph ended before \UTFviii@three@octets@combine was complete.
+<to be read again> 
+                   \par 
+l.141   \CJK@namepppdef{^^e8}
+                             
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.142   \CJK@n
+              amepppdef{^^e9}
+? 
+! Argument of \UTFviii@three@octets@combine has an extra }.
+<inserted text> 
+                \par 
+l.142   \CJK@namepppdef{^^e9}
+                             
+? 
+Runaway argument?
+! Paragraph ended before \UTFviii@three@octets@combine was complete.
+<to be read again> 
+                   \par 
+l.142   \CJK@namepppdef{^^e9}
+                             
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.143   \CJK@n
+              amepppdef{^^ea}
+? 
+! Argument of \UTFviii@three@octets@combine has an extra }.
+<inserted text> 
+                \par 
+l.143   \CJK@namepppdef{^^ea}
+                             
+? 
+Runaway argument?
+! Paragraph ended before \UTFviii@three@octets@combine was complete.
+<to be read again> 
+                   \par 
+l.143   \CJK@namepppdef{^^ea}
+                             
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.144   \CJK@n
+              amepppdef{^^eb}
+? 
+! Argument of \UTFviii@three@octets@combine has an extra }.
+<inserted text> 
+                \par 
+l.144   \CJK@namepppdef{^^eb}
+                             
+? 
+Runaway argument?
+! Paragraph ended before \UTFviii@three@octets@combine was complete.
+<to be read again> 
+                   \par 
+l.144   \CJK@namepppdef{^^eb}
+                             
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.145   \CJK@n
+              amepppdef{^^ec}
+? 
+! Argument of \UTFviii@three@octets@combine has an extra }.
+<inserted text> 
+                \par 
+l.145   \CJK@namepppdef{^^ec}
+                             
+? 
+Runaway argument?
+! Paragraph ended before \UTFviii@three@octets@combine was complete.
+<to be read again> 
+                   \par 
+l.145   \CJK@namepppdef{^^ec}
+                             
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.146   \CJK@n
+              amepppdef{^^ed}
+? 
+! Argument of \UTFviii@three@octets@combine has an extra }.
+<inserted text> 
+                \par 
+l.146   \CJK@namepppdef{^^ed}
+                             
+? 
+Runaway argument?
+! Paragraph ended before \UTFviii@three@octets@combine was complete.
+<to be read again> 
+                   \par 
+l.146   \CJK@namepppdef{^^ed}
+                             
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.147   \CJK@n
+              amepppdef{^^ee}
+? 
+! Argument of \UTFviii@three@octets@combine has an extra }.
+<inserted text> 
+                \par 
+l.147   \CJK@namepppdef{^^ee}
+                             
+? 
+Runaway argument?
+! Paragraph ended before \UTFviii@three@octets@combine was complete.
+<to be read again> 
+                   \par 
+l.147   \CJK@namepppdef{^^ee}
+                             
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.148   \CJK@n
+              amepppdef{^^ef}
+? 
+! Argument of \UTFviii@three@octets@combine has an extra }.
+<inserted text> 
+                \par 
+l.148   \CJK@namepppdef{^^ef}
+                             
+? 
+Runaway argument?
+! Paragraph ended before \UTFviii@three@octets@combine was complete.
+<to be read again> 
+                   \par 
+l.148   \CJK@namepppdef{^^ef}
+                             
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.150   \CJK@n
+              ameppppdef{^^f0}
+? 
+! Argument of \UTFviii@four@octets@combine has an extra }.
+<inserted text> 
+                \par 
+l.150   \CJK@nameppppdef{^^f0}
+                              
+? 
+Runaway argument?
+! Paragraph ended before \UTFviii@four@octets@combine was complete.
+<to be read again> 
+                   \par 
+l.150   \CJK@nameppppdef{^^f0}
+                              
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.151   \CJK@n
+              ameppppdef{^^f1}
+? 
+! Argument of \UTFviii@four@octets@combine has an extra }.
+<inserted text> 
+                \par 
+l.151   \CJK@nameppppdef{^^f1}
+                              
+? 
+Runaway argument?
+! Paragraph ended before \UTFviii@four@octets@combine was complete.
+<to be read again> 
+                   \par 
+l.151   \CJK@nameppppdef{^^f1}
+                              
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.152   \CJK@n
+              ameppppdef{^^f2}
+? 
+! Argument of \UTFviii@four@octets@combine has an extra }.
+<inserted text> 
+                \par 
+l.152   \CJK@nameppppdef{^^f2}
+                              
+? 
+Runaway argument?
+! Paragraph ended before \UTFviii@four@octets@combine was complete.
+<to be read again> 
+                   \par 
+l.152   \CJK@nameppppdef{^^f2}
+                              
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.153   \CJK@n
+              ameppppdef{^^f3}
+? 
+! Argument of \UTFviii@four@octets@combine has an extra }.
+<inserted text> 
+                \par 
+l.153   \CJK@nameppppdef{^^f3}
+                              
+? 
+Runaway argument?
+! Paragraph ended before \UTFviii@four@octets@combine was complete.
+<to be read again> 
+                   \par 
+l.153   \CJK@nameppppdef{^^f3}
+                              
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.154   \CJK@n
+              ameppppdef{^^f4}}
+? 
+! Argument of \UTFviii@four@octets@combine has an extra }.
+<inserted text> 
+                \par 
+l.154   \CJK@nameppppdef{^^f4}
+                              }
+? 
+Runaway argument?
+! Paragraph ended before \UTFviii@four@octets@combine was complete.
+<to be read again> 
+                   \par 
+l.154   \CJK@nameppppdef{^^f4}
+                              }
+? 
+! Too many }'s.
+l.154   \CJK@nameppppdef{^^f4}}
+                               
+? 
+)
+! Undefined control sequence.
+\CJK@input ...cctab \file_input:n {#1}\cctab_end: 
+                                                  
+l.22 \begin{document}
+                     
+? 
+! Undefined control sequence.
+\CJK@input #1->\cctab_begin:N 
+                              \c__ctex_CJK_cctab \file_input:n {#1}\cctab_end: 
+l.22 \begin{document}
+                     
+? 
+! Undefined control sequence.
+\CJK@input #1->\cctab_begin:N \c__ctex_CJK_cctab 
+                                                 \file_input:n {#1}\cctab_end: 
+l.22 \begin{document}
+                     
+? 
+(D:\OtherSoftware\latex\miktex\tex/latex/cjk/UTF8\UTF8.enc
+File: UTF8.enc 2015/04/18 4.8.4
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.32 \CJK@g
+           lobal\@namedef{CJK@UTF8Encoding}{
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.43   \CJK@n
+             amegdef{^^c0}##1{\@empty\CJK@char{00}{-128}{##1}}
+? 
+
+! Package inputenc Error: Invalid UTF-8 byte "C0.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.43   \CJK@namegdef{^^c0
+                         }##1{\@empty\CJK@char{00}{-128}{##1}}
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.43   \CJK@namegdef{^^c0}#
+                           #1{\@empty\CJK@char{00}{-128}{##1}}
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.43   \CJK@namegdef{^^c0}##
+                            1{\@empty\CJK@char{00}{-128}{##1}}
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.43 ...gdef{^^c0}##1{\@empty\CJK@char{00}{-128}{#
+                                                  #1}}
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.43 ...def{^^c0}##1{\@empty\CJK@char{00}{-128}{##
+                                                  1}}
+? 
+
+! Package inputenc Error: Invalid UTF-8 byte "C1.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.44   \CJK@namegdef{^^c1
+                         }##1{\@empty\CJK@char{00}{ -64}{##1}}
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.44   \CJK@namegdef{^^c1}#
+                           #1{\@empty\CJK@char{00}{ -64}{##1}}
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.44   \CJK@namegdef{^^c1}##
+                            1{\@empty\CJK@char{00}{ -64}{##1}}
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.44 ...gdef{^^c1}##1{\@empty\CJK@char{00}{ -64}{#
+                                                  #1}}
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.44 ...def{^^c1}##1{\@empty\CJK@char{00}{ -64}{##
+                                                  1}}
+? 
+! Argument of \UTFviii@two@octets@combine has an extra }.
+<inserted text> 
+                \par 
+l.45   \CJK@namegdef{^^c2}
+                          ##1{\@empty\CJK@char{00}{   0}{##1}}
+? 
+Runaway argument?
+! Paragraph ended before \UTFviii@two@octets@combine was complete.
+<to be read again> 
+                   \par 
+l.45   \CJK@namegdef{^^c2}
+                          ##1{\@empty\CJK@char{00}{   0}{##1}}
+? 
+
+Overfull \hbox (41.79565pt too wide) in paragraph at lines 43--45
+[]\OT1/cmr/m/n/10.53937 @@amegdef1empty@@har00-1281 @@amegdef1empty@@har00 -641
+ @@amegdef 
+ []
+
+! You can't use `macro parameter character #' in vertical mode.
+l.45   \CJK@namegdef{^^c2}#
+                           #1{\@empty\CJK@char{00}{   0}{##1}}
+? 
+! You can't use `macro parameter character #' in vertical mode.
+l.45   \CJK@namegdef{^^c2}##
+                            1{\@empty\CJK@char{00}{   0}{##1}}
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.45   \CJK@namegdef{^^c2}##1
+                             {\@empty\CJK@char{00}{   0}{##1}}
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.45 ...gdef{^^c2}##1{\@empty\CJK@char{00}{   0}{#
+                                                  #1}}
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.45 ...def{^^c2}##1{\@empty\CJK@char{00}{   0}{##
+                                                  1}}
+? 
+! Argument of \UTFviii@two@octets@combine has an extra }.
+<inserted text> 
+                \par 
+l.46   \CJK@namegdef{^^c3}
+                          ##1{\@empty\CJK@char{00}{  64}{##1}}
+? 
+Runaway argument?
+! Paragraph ended before \UTFviii@two@octets@combine was complete.
+<to be read again> 
+                   \par 
+l.46   \CJK@namegdef{^^c3}
+                          ##1{\@empty\CJK@char{00}{  64}{##1}}
+? 
+! You can't use `macro parameter character #' in vertical mode.
+l.46   \CJK@namegdef{^^c3}#
+                           #1{\@empty\CJK@char{00}{  64}{##1}}
+? 
+! You can't use `macro parameter character #' in vertical mode.
+l.46   \CJK@namegdef{^^c3}##
+                            1{\@empty\CJK@char{00}{  64}{##1}}
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.46   \CJK@namegdef{^^c3}##1
+                             {\@empty\CJK@char{00}{  64}{##1}}
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.46 ...gdef{^^c3}##1{\@empty\CJK@char{00}{  64}{#
+                                                  #1}}
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.46 ...def{^^c3}##1{\@empty\CJK@char{00}{  64}{##
+                                                  1}}
+? 
+! Argument of \UTFviii@two@octets@combine has an extra }.
+<inserted text> 
+                \par 
+l.47   \CJK@namegdef{^^c4}
+                          ##1{\@empty\CJK@char{01}{-128}{##1}}
+? 
+Runaway argument?
+! Paragraph ended before \UTFviii@two@octets@combine was complete.
+<to be read again> 
+                   \par 
+l.47   \CJK@namegdef{^^c4}
+                          ##1{\@empty\CJK@char{01}{-128}{##1}}
+? 
+! You can't use `macro parameter character #' in vertical mode.
+l.47   \CJK@namegdef{^^c4}#
+                           #1{\@empty\CJK@char{01}{-128}{##1}}
+? 
+! You can't use `macro parameter character #' in vertical mode.
+l.47   \CJK@namegdef{^^c4}##
+                            1{\@empty\CJK@char{01}{-128}{##1}}
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.47   \CJK@namegdef{^^c4}##1
+                             {\@empty\CJK@char{01}{-128}{##1}}
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.47 ...gdef{^^c4}##1{\@empty\CJK@char{01}{-128}{#
+                                                  #1}}
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.47 ...def{^^c4}##1{\@empty\CJK@char{01}{-128}{##
+                                                  1}}
+? 
+! Argument of \UTFviii@two@octets@combine has an extra }.
+<inserted text> 
+                \par 
+l.48   \CJK@namegdef{^^c5}
+                          ##1{\@empty\CJK@char{01}{ -64}{##1}}
+? 
+Runaway argument?
+! Paragraph ended before \UTFviii@two@octets@combine was complete.
+<to be read again> 
+                   \par 
+l.48   \CJK@namegdef{^^c5}
+                          ##1{\@empty\CJK@char{01}{ -64}{##1}}
+? 
+! You can't use `macro parameter character #' in vertical mode.
+l.48   \CJK@namegdef{^^c5}#
+                           #1{\@empty\CJK@char{01}{ -64}{##1}}
+? 
+! You can't use `macro parameter character #' in vertical mode.
+l.48   \CJK@namegdef{^^c5}##
+                            1{\@empty\CJK@char{01}{ -64}{##1}}
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.48   \CJK@namegdef{^^c5}##1
+                             {\@empty\CJK@char{01}{ -64}{##1}}
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.48 ...gdef{^^c5}##1{\@empty\CJK@char{01}{ -64}{#
+                                                  #1}}
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.48 ...def{^^c5}##1{\@empty\CJK@char{01}{ -64}{##
+                                                  1}}
+? 
+! Argument of \UTFviii@two@octets@combine has an extra }.
+<inserted text> 
+                \par 
+l.49   \CJK@namegdef{^^c6}
+                          ##1{\@empty\CJK@char{01}{   0}{##1}}
+? 
+Runaway argument?
+! Paragraph ended before \UTFviii@two@octets@combine was complete.
+<to be read again> 
+                   \par 
+l.49   \CJK@namegdef{^^c6}
+                          ##1{\@empty\CJK@char{01}{   0}{##1}}
+? 
+! You can't use `macro parameter character #' in vertical mode.
+l.49   \CJK@namegdef{^^c6}#
+                           #1{\@empty\CJK@char{01}{   0}{##1}}
+? 
+! You can't use `macro parameter character #' in vertical mode.
+l.49   \CJK@namegdef{^^c6}##
+                            1{\@empty\CJK@char{01}{   0}{##1}}
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.49   \CJK@namegdef{^^c6}##1
+                             {\@empty\CJK@char{01}{   0}{##1}}
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.49 ...gdef{^^c6}##1{\@empty\CJK@char{01}{   0}{#
+                                                  #1}}
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.49 ...def{^^c6}##1{\@empty\CJK@char{01}{   0}{##
+                                                  1}}
+? 
+! Argument of \UTFviii@two@octets@combine has an extra }.
+<inserted text> 
+                \par 
+l.50   \CJK@namegdef{^^c7}
+                          ##1{\@empty\CJK@char{01}{  64}{##1}}
+? 
+Runaway argument?
+! Paragraph ended before \UTFviii@two@octets@combine was complete.
+<to be read again> 
+                   \par 
+l.50   \CJK@namegdef{^^c7}
+                          ##1{\@empty\CJK@char{01}{  64}{##1}}
+? 
+! You can't use `macro parameter character #' in vertical mode.
+l.50   \CJK@namegdef{^^c7}#
+                           #1{\@empty\CJK@char{01}{  64}{##1}}
+? 
+! You can't use `macro parameter character #' in vertical mode.
+l.50   \CJK@namegdef{^^c7}##
+                            1{\@empty\CJK@char{01}{  64}{##1}}
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.50   \CJK@namegdef{^^c7}##1
+                             {\@empty\CJK@char{01}{  64}{##1}}
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.50 ...gdef{^^c7}##1{\@empty\CJK@char{01}{  64}{#
+                                                  #1}}
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.50 ...def{^^c7}##1{\@empty\CJK@char{01}{  64}{##
+                                                  1}}
+? 
+! Argument of \UTFviii@two@octets@combine has an extra }.
+<inserted text> 
+                \par 
+l.51   \CJK@namegdef{^^c8}
+                          ##1{\@empty\CJK@char{02}{-128}{##1}}
+? 
+Runaway argument?
+! Paragraph ended before \UTFviii@two@octets@combine was complete.
+<to be read again> 
+                   \par 
+l.51   \CJK@namegdef{^^c8}
+                          ##1{\@empty\CJK@char{02}{-128}{##1}}
+? 
+! You can't use `macro parameter character #' in vertical mode.
+l.51   \CJK@namegdef{^^c8}#
+                           #1{\@empty\CJK@char{02}{-128}{##1}}
+? 
+! You can't use `macro parameter character #' in vertical mode.
+l.51   \CJK@namegdef{^^c8}##
+                            1{\@empty\CJK@char{02}{-128}{##1}}
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.51   \CJK@namegdef{^^c8}##1
+                             {\@empty\CJK@char{02}{-128}{##1}}
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.51 ...gdef{^^c8}##1{\@empty\CJK@char{02}{-128}{#
+                                                  #1}}
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.51 ...def{^^c8}##1{\@empty\CJK@char{02}{-128}{##
+                                                  1}}
+? 
+! Argument of \UTFviii@two@octets@combine has an extra }.
+<inserted text> 
+                \par 
+l.52   \CJK@namegdef{^^c9}
+                          ##1{\@empty\CJK@char{02}{ -64}{##1}}
+? 
+Runaway argument?
+! Paragraph ended before \UTFviii@two@octets@combine was complete.
+<to be read again> 
+                   \par 
+l.52   \CJK@namegdef{^^c9}
+                          ##1{\@empty\CJK@char{02}{ -64}{##1}}
+? 
+! You can't use `macro parameter character #' in vertical mode.
+l.52   \CJK@namegdef{^^c9}#
+                           #1{\@empty\CJK@char{02}{ -64}{##1}}
+? 
+! You can't use `macro parameter character #' in vertical mode.
+l.52   \CJK@namegdef{^^c9}##
+                            1{\@empty\CJK@char{02}{ -64}{##1}}
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.52   \CJK@namegdef{^^c9}##1
+                             {\@empty\CJK@char{02}{ -64}{##1}}
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.52 ...gdef{^^c9}##1{\@empty\CJK@char{02}{ -64}{#
+                                                  #1}}
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.52 ...def{^^c9}##1{\@empty\CJK@char{02}{ -64}{##
+                                                  1}}
+? 
+! Argument of \UTFviii@two@octets@combine has an extra }.
+<inserted text> 
+                \par 
+l.53   \CJK@namegdef{^^ca}
+                          ##1{\@empty\CJK@char{02}{   0}{##1}}
+? 
+Runaway argument?
+! Paragraph ended before \UTFviii@two@octets@combine was complete.
+<to be read again> 
+                   \par 
+l.53   \CJK@namegdef{^^ca}
+                          ##1{\@empty\CJK@char{02}{   0}{##1}}
+? 
+! You can't use `macro parameter character #' in vertical mode.
+l.53   \CJK@namegdef{^^ca}#
+                           #1{\@empty\CJK@char{02}{   0}{##1}}
+? 
+! You can't use `macro parameter character #' in vertical mode.
+l.53   \CJK@namegdef{^^ca}##
+                            1{\@empty\CJK@char{02}{   0}{##1}}
+? 
+! Undefined control sequence.
+\set@color ...\@pdfcolorstack push{\current@color 
+                                                  }\aftergroup \reset@color 
+l.53   \CJK@namegdef{^^ca}##1
+                             {\@empty\CJK@char{02}{   0}{##1}}
+? 
+! Undefined control sequence.
+\set@color ...\@pdfcolorstack push{\current@color 
+                                                  }\aftergroup \reset@color 
+l.53   \CJK@namegdef{^^ca}##1
+                             {\@empty\CJK@char{02}{   0}{##1}}
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.53   \CJK@namegdef{^^ca}##1
+                             {\@empty\CJK@char{02}{   0}{##1}}
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.53 ...gdef{^^ca}##1{\@empty\CJK@char{02}{   0}{#
+                                                  #1}}
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.53 ...def{^^ca}##1{\@empty\CJK@char{02}{   0}{##
+                                                  1}}
+? 
+! Argument of \UTFviii@two@octets@combine has an extra }.
+<inserted text> 
+                \par 
+l.54   \CJK@namegdef{^^cb}
+                          ##1{\@empty\CJK@char{02}{  64}{##1}}
+? 
+Runaway argument?
+! Paragraph ended before \UTFviii@two@octets@combine was complete.
+<to be read again> 
+                   \par 
+l.54   \CJK@namegdef{^^cb}
+                          ##1{\@empty\CJK@char{02}{  64}{##1}}
+? 
+! You can't use `macro parameter character #' in vertical mode.
+l.54   \CJK@namegdef{^^cb}#
+                           #1{\@empty\CJK@char{02}{  64}{##1}}
+? 
+! You can't use `macro parameter character #' in vertical mode.
+l.54   \CJK@namegdef{^^cb}##
+                            1{\@empty\CJK@char{02}{  64}{##1}}
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.54   \CJK@namegdef{^^cb}##1
+                             {\@empty\CJK@char{02}{  64}{##1}}
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.54 ...gdef{^^cb}##1{\@empty\CJK@char{02}{  64}{#
+                                                  #1}}
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.54 ...def{^^cb}##1{\@empty\CJK@char{02}{  64}{##
+                                                  1}}
+? 
+! Argument of \UTFviii@two@octets@combine has an extra }.
+<inserted text> 
+                \par 
+l.55   \CJK@namegdef{^^cc}
+                          ##1{\@empty\CJK@char{03}{-128}{##1}}
+? 
+Runaway argument?
+! Paragraph ended before \UTFviii@two@octets@combine was complete.
+<to be read again> 
+                   \par 
+l.55   \CJK@namegdef{^^cc}
+                          ##1{\@empty\CJK@char{03}{-128}{##1}}
+? 
+! You can't use `macro parameter character #' in vertical mode.
+l.55   \CJK@namegdef{^^cc}#
+                           #1{\@empty\CJK@char{03}{-128}{##1}}
+? 
+! You can't use `macro parameter character #' in vertical mode.
+l.55   \CJK@namegdef{^^cc}##
+                            1{\@empty\CJK@char{03}{-128}{##1}}
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.55   \CJK@namegdef{^^cc}##1
+                             {\@empty\CJK@char{03}{-128}{##1}}
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.55 ...gdef{^^cc}##1{\@empty\CJK@char{03}{-128}{#
+                                                  #1}}
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.55 ...def{^^cc}##1{\@empty\CJK@char{03}{-128}{##
+                                                  1}}
+? 
+! Argument of \UTFviii@two@octets@combine has an extra }.
+<inserted text> 
+                \par 
+l.56   \CJK@namegdef{^^cd}
+                          ##1{\@empty\CJK@char{03}{ -64}{##1}}
+? 
+Runaway argument?
+! Paragraph ended before \UTFviii@two@octets@combine was complete.
+<to be read again> 
+                   \par 
+l.56   \CJK@namegdef{^^cd}
+                          ##1{\@empty\CJK@char{03}{ -64}{##1}}
+? 
+! You can't use `macro parameter character #' in vertical mode.
+l.56   \CJK@namegdef{^^cd}#
+                           #1{\@empty\CJK@char{03}{ -64}{##1}}
+? 
+! You can't use `macro parameter character #' in vertical mode.
+l.56   \CJK@namegdef{^^cd}##
+                            1{\@empty\CJK@char{03}{ -64}{##1}}
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.56   \CJK@namegdef{^^cd}##1
+                             {\@empty\CJK@char{03}{ -64}{##1}}
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.56 ...gdef{^^cd}##1{\@empty\CJK@char{03}{ -64}{#
+                                                  #1}}
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.56 ...def{^^cd}##1{\@empty\CJK@char{03}{ -64}{##
+                                                  1}}
+? 
+! Argument of \UTFviii@two@octets@combine has an extra }.
+<inserted text> 
+                \par 
+l.57   \CJK@namegdef{^^ce}
+                          ##1{\@empty\CJK@char{03}{   0}{##1}}
+? 
+Runaway argument?
+! Paragraph ended before \UTFviii@two@octets@combine was complete.
+<to be read again> 
+                   \par 
+l.57   \CJK@namegdef{^^ce}
+                          ##1{\@empty\CJK@char{03}{   0}{##1}}
+? 
+! You can't use `macro parameter character #' in vertical mode.
+l.57   \CJK@namegdef{^^ce}#
+                           #1{\@empty\CJK@char{03}{   0}{##1}}
+? 
+! You can't use `macro parameter character #' in vertical mode.
+l.57   \CJK@namegdef{^^ce}##
+                            1{\@empty\CJK@char{03}{   0}{##1}}
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.57   \CJK@namegdef{^^ce}##1
+                             {\@empty\CJK@char{03}{   0}{##1}}
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.57 ...gdef{^^ce}##1{\@empty\CJK@char{03}{   0}{#
+                                                  #1}}
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.57 ...def{^^ce}##1{\@empty\CJK@char{03}{   0}{##
+                                                  1}}
+? 
+! Argument of \UTFviii@two@octets@combine has an extra }.
+<inserted text> 
+                \par 
+l.58   \CJK@namegdef{^^cf}
+                          ##1{\@empty\CJK@char{03}{  64}{##1}}
+? 
+Runaway argument?
+! Paragraph ended before \UTFviii@two@octets@combine was complete.
+<to be read again> 
+                   \par 
+l.58   \CJK@namegdef{^^cf}
+                          ##1{\@empty\CJK@char{03}{  64}{##1}}
+? 
+! You can't use `macro parameter character #' in vertical mode.
+l.58   \CJK@namegdef{^^cf}#
+                           #1{\@empty\CJK@char{03}{  64}{##1}}
+? 
+! You can't use `macro parameter character #' in vertical mode.
+l.58   \CJK@namegdef{^^cf}##
+                            1{\@empty\CJK@char{03}{  64}{##1}}
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.58   \CJK@namegdef{^^cf}##1
+                             {\@empty\CJK@char{03}{  64}{##1}}
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.58 ...gdef{^^cf}##1{\@empty\CJK@char{03}{  64}{#
+                                                  #1}}
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.58 ...def{^^cf}##1{\@empty\CJK@char{03}{  64}{##
+                                                  1}}
+? 
+! Argument of \UTFviii@two@octets@combine has an extra }.
+<inserted text> 
+                \par 
+l.59   \CJK@namegdef{^^d0}
+                          ##1{\@empty\CJK@char{04}{-128}{##1}}
+? 
+Runaway argument?
+! Paragraph ended before \UTFviii@two@octets@combine was complete.
+<to be read again> 
+                   \par 
+l.59   \CJK@namegdef{^^d0}
+                          ##1{\@empty\CJK@char{04}{-128}{##1}}
+? 
+! You can't use `macro parameter character #' in vertical mode.
+l.59   \CJK@namegdef{^^d0}#
+                           #1{\@empty\CJK@char{04}{-128}{##1}}
+? 
+! You can't use `macro parameter character #' in vertical mode.
+l.59   \CJK@namegdef{^^d0}##
+                            1{\@empty\CJK@char{04}{-128}{##1}}
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.59   \CJK@namegdef{^^d0}##1
+                             {\@empty\CJK@char{04}{-128}{##1}}
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.59 ...gdef{^^d0}##1{\@empty\CJK@char{04}{-128}{#
+                                                  #1}}
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.59 ...def{^^d0}##1{\@empty\CJK@char{04}{-128}{##
+                                                  1}}
+? 
+! Argument of \UTFviii@two@octets@combine has an extra }.
+<inserted text> 
+                \par 
+l.60   \CJK@namegdef{^^d1}
+                          ##1{\@empty\CJK@char{04}{ -64}{##1}}
+? 
+Runaway argument?
+! Paragraph ended before \UTFviii@two@octets@combine was complete.
+<to be read again> 
+                   \par 
+l.60   \CJK@namegdef{^^d1}
+                          ##1{\@empty\CJK@char{04}{ -64}{##1}}
+? 
+! You can't use `macro parameter character #' in vertical mode.
+l.60   \CJK@namegdef{^^d1}#
+                           #1{\@empty\CJK@char{04}{ -64}{##1}}
+? 
+! You can't use `macro parameter character #' in vertical mode.
+l.60   \CJK@namegdef{^^d1}##
+                            1{\@empty\CJK@char{04}{ -64}{##1}}
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.60   \CJK@namegdef{^^d1}##1
+                             {\@empty\CJK@char{04}{ -64}{##1}}
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.60 ...gdef{^^d1}##1{\@empty\CJK@char{04}{ -64}{#
+                                                  #1}}
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.60 ...def{^^d1}##1{\@empty\CJK@char{04}{ -64}{##
+                                                  1}}
+? 
+! Argument of \UTFviii@two@octets@combine has an extra }.
+<inserted text> 
+                \par 
+l.61   \CJK@namegdef{^^d2}
+                          ##1{\@empty\CJK@char{04}{   0}{##1}}
+? 
+Runaway argument?
+! Paragraph ended before \UTFviii@two@octets@combine was complete.
+<to be read again> 
+                   \par 
+l.61   \CJK@namegdef{^^d2}
+                          ##1{\@empty\CJK@char{04}{   0}{##1}}
+? 
+! You can't use `macro parameter character #' in vertical mode.
+l.61   \CJK@namegdef{^^d2}#
+                           #1{\@empty\CJK@char{04}{   0}{##1}}
+? 
+! You can't use `macro parameter character #' in vertical mode.
+l.61   \CJK@namegdef{^^d2}##
+                            1{\@empty\CJK@char{04}{   0}{##1}}
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.61   \CJK@namegdef{^^d2}##1
+                             {\@empty\CJK@char{04}{   0}{##1}}
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.61 ...gdef{^^d2}##1{\@empty\CJK@char{04}{   0}{#
+                                                  #1}}
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.61 ...def{^^d2}##1{\@empty\CJK@char{04}{   0}{##
+                                                  1}}
+? 
+! Argument of \UTFviii@two@octets@combine has an extra }.
+<inserted text> 
+                \par 
+l.62   \CJK@namegdef{^^d3}
+                          ##1{\@empty\CJK@char{04}{  64}{##1}}
+? 
+Runaway argument?
+! Paragraph ended before \UTFviii@two@octets@combine was complete.
+<to be read again> 
+                   \par 
+l.62   \CJK@namegdef{^^d3}
+                          ##1{\@empty\CJK@char{04}{  64}{##1}}
+? 
+! You can't use `macro parameter character #' in vertical mode.
+l.62   \CJK@namegdef{^^d3}#
+                           #1{\@empty\CJK@char{04}{  64}{##1}}
+? 
+! You can't use `macro parameter character #' in vertical mode.
+l.62   \CJK@namegdef{^^d3}##
+                            1{\@empty\CJK@char{04}{  64}{##1}}
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.62   \CJK@namegdef{^^d3}##1
+                             {\@empty\CJK@char{04}{  64}{##1}}
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.62 ...gdef{^^d3}##1{\@empty\CJK@char{04}{  64}{#
+                                                  #1}}
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.62 ...def{^^d3}##1{\@empty\CJK@char{04}{  64}{##
+                                                  1}}
+? 
+! Argument of \UTFviii@two@octets@combine has an extra }.
+<inserted text> 
+                \par 
+l.63   \CJK@namegdef{^^d4}
+                          ##1{\@empty\CJK@char{05}{-128}{##1}}
+? 
+Runaway argument?
+! Paragraph ended before \UTFviii@two@octets@combine was complete.
+<to be read again> 
+                   \par 
+l.63   \CJK@namegdef{^^d4}
+                          ##1{\@empty\CJK@char{05}{-128}{##1}}
+? 
+! You can't use `macro parameter character #' in vertical mode.
+l.63   \CJK@namegdef{^^d4}#
+                           #1{\@empty\CJK@char{05}{-128}{##1}}
+? 
+! You can't use `macro parameter character #' in vertical mode.
+l.63   \CJK@namegdef{^^d4}##
+                            1{\@empty\CJK@char{05}{-128}{##1}}
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.63   \CJK@namegdef{^^d4}##1
+                             {\@empty\CJK@char{05}{-128}{##1}}
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.63 ...gdef{^^d4}##1{\@empty\CJK@char{05}{-128}{#
+                                                  #1}}
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.63 ...def{^^d4}##1{\@empty\CJK@char{05}{-128}{##
+                                                  1}}
+? 
+! Argument of \UTFviii@two@octets@combine has an extra }.
+<inserted text> 
+                \par 
+l.64   \CJK@namegdef{^^d5}
+                          ##1{\@empty\CJK@char{05}{ -64}{##1}}
+? 
+Runaway argument?
+! Paragraph ended before \UTFviii@two@octets@combine was complete.
+<to be read again> 
+                   \par 
+l.64   \CJK@namegdef{^^d5}
+                          ##1{\@empty\CJK@char{05}{ -64}{##1}}
+? 
+! You can't use `macro parameter character #' in vertical mode.
+l.64   \CJK@namegdef{^^d5}#
+                           #1{\@empty\CJK@char{05}{ -64}{##1}}
+? 
+! You can't use `macro parameter character #' in vertical mode.
+l.64   \CJK@namegdef{^^d5}##
+                            1{\@empty\CJK@char{05}{ -64}{##1}}
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.64   \CJK@namegdef{^^d5}##1
+                             {\@empty\CJK@char{05}{ -64}{##1}}
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.64 ...gdef{^^d5}##1{\@empty\CJK@char{05}{ -64}{#
+                                                  #1}}
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.64 ...def{^^d5}##1{\@empty\CJK@char{05}{ -64}{##
+                                                  1}}
+? 
+! Argument of \UTFviii@two@octets@combine has an extra }.
+<inserted text> 
+                \par 
+l.65   \CJK@namegdef{^^d6}
+                          ##1{\@empty\CJK@char{05}{   0}{##1}}
+? 
+Runaway argument?
+! Paragraph ended before \UTFviii@two@octets@combine was complete.
+<to be read again> 
+                   \par 
+l.65   \CJK@namegdef{^^d6}
+                          ##1{\@empty\CJK@char{05}{   0}{##1}}
+? 
+! You can't use `macro parameter character #' in vertical mode.
+l.65   \CJK@namegdef{^^d6}#
+                           #1{\@empty\CJK@char{05}{   0}{##1}}
+? 
+! You can't use `macro parameter character #' in vertical mode.
+l.65   \CJK@namegdef{^^d6}##
+                            1{\@empty\CJK@char{05}{   0}{##1}}
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.65   \CJK@namegdef{^^d6}##1
+                             {\@empty\CJK@char{05}{   0}{##1}}
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.65 ...gdef{^^d6}##1{\@empty\CJK@char{05}{   0}{#
+                                                  #1}}
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.65 ...def{^^d6}##1{\@empty\CJK@char{05}{   0}{##
+                                                  1}}
+? 
+! Argument of \UTFviii@two@octets@combine has an extra }.
+<inserted text> 
+                \par 
+l.66   \CJK@namegdef{^^d7}
+                          ##1{\@empty\CJK@char{05}{  64}{##1}}
+? 
+Runaway argument?
+! Paragraph ended before \UTFviii@two@octets@combine was complete.
+<to be read again> 
+                   \par 
+l.66   \CJK@namegdef{^^d7}
+                          ##1{\@empty\CJK@char{05}{  64}{##1}}
+? 
+! You can't use `macro parameter character #' in vertical mode.
+l.66   \CJK@namegdef{^^d7}#
+                           #1{\@empty\CJK@char{05}{  64}{##1}}
+? 
+! You can't use `macro parameter character #' in vertical mode.
+l.66   \CJK@namegdef{^^d7}##
+                            1{\@empty\CJK@char{05}{  64}{##1}}
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.66   \CJK@namegdef{^^d7}##1
+                             {\@empty\CJK@char{05}{  64}{##1}}
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.66 ...gdef{^^d7}##1{\@empty\CJK@char{05}{  64}{#
+                                                  #1}}
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.66 ...def{^^d7}##1{\@empty\CJK@char{05}{  64}{##
+                                                  1}}
+? 
+! Argument of \UTFviii@two@octets@combine has an extra }.
+<inserted text> 
+                \par 
+l.67   \CJK@namegdef{^^d8}
+                          ##1{\@empty\CJK@char{06}{-128}{##1}}
+? 
+Runaway argument?
+! Paragraph ended before \UTFviii@two@octets@combine was complete.
+<to be read again> 
+                   \par 
+l.67   \CJK@namegdef{^^d8}
+                          ##1{\@empty\CJK@char{06}{-128}{##1}}
+? 
+! You can't use `macro parameter character #' in vertical mode.
+l.67   \CJK@namegdef{^^d8}#
+                           #1{\@empty\CJK@char{06}{-128}{##1}}
+? 
+! You can't use `macro parameter character #' in vertical mode.
+l.67   \CJK@namegdef{^^d8}##
+                            1{\@empty\CJK@char{06}{-128}{##1}}
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.67   \CJK@namegdef{^^d8}##1
+                             {\@empty\CJK@char{06}{-128}{##1}}
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.67 ...gdef{^^d8}##1{\@empty\CJK@char{06}{-128}{#
+                                                  #1}}
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.67 ...def{^^d8}##1{\@empty\CJK@char{06}{-128}{##
+                                                  1}}
+? 
+! Argument of \UTFviii@two@octets@combine has an extra }.
+<inserted text> 
+                \par 
+l.68   \CJK@namegdef{^^d9}
+                          ##1{\@empty\CJK@char{06}{ -64}{##1}}
+? 
+Runaway argument?
+! Paragraph ended before \UTFviii@two@octets@combine was complete.
+<to be read again> 
+                   \par 
+l.68   \CJK@namegdef{^^d9}
+                          ##1{\@empty\CJK@char{06}{ -64}{##1}}
+? 
+! You can't use `macro parameter character #' in vertical mode.
+l.68   \CJK@namegdef{^^d9}#
+                           #1{\@empty\CJK@char{06}{ -64}{##1}}
+? 
+! You can't use `macro parameter character #' in vertical mode.
+l.68   \CJK@namegdef{^^d9}##
+                            1{\@empty\CJK@char{06}{ -64}{##1}}
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.68   \CJK@namegdef{^^d9}##1
+                             {\@empty\CJK@char{06}{ -64}{##1}}
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.68 ...gdef{^^d9}##1{\@empty\CJK@char{06}{ -64}{#
+                                                  #1}}
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.68 ...def{^^d9}##1{\@empty\CJK@char{06}{ -64}{##
+                                                  1}}
+? 
+! Argument of \UTFviii@two@octets@combine has an extra }.
+<inserted text> 
+                \par 
+l.69   \CJK@namegdef{^^da}
+                          ##1{\@empty\CJK@char{06}{   0}{##1}}
+? 
+Runaway argument?
+! Paragraph ended before \UTFviii@two@octets@combine was complete.
+<to be read again> 
+                   \par 
+l.69   \CJK@namegdef{^^da}
+                          ##1{\@empty\CJK@char{06}{   0}{##1}}
+? 
+! You can't use `macro parameter character #' in vertical mode.
+l.69   \CJK@namegdef{^^da}#
+                           #1{\@empty\CJK@char{06}{   0}{##1}}
+? 
+! You can't use `macro parameter character #' in vertical mode.
+l.69   \CJK@namegdef{^^da}##
+                            1{\@empty\CJK@char{06}{   0}{##1}}
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.69   \CJK@namegdef{^^da}##1
+                             {\@empty\CJK@char{06}{   0}{##1}}
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.69 ...gdef{^^da}##1{\@empty\CJK@char{06}{   0}{#
+                                                  #1}}
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.69 ...def{^^da}##1{\@empty\CJK@char{06}{   0}{##
+                                                  1}}
+? 
+! Argument of \UTFviii@two@octets@combine has an extra }.
+<inserted text> 
+                \par 
+l.70   \CJK@namegdef{^^db}
+                          ##1{\@empty\CJK@char{06}{  64}{##1}}
+? 
+Runaway argument?
+! Paragraph ended before \UTFviii@two@octets@combine was complete.
+<to be read again> 
+                   \par 
+l.70   \CJK@namegdef{^^db}
+                          ##1{\@empty\CJK@char{06}{  64}{##1}}
+? 
+! You can't use `macro parameter character #' in vertical mode.
+l.70   \CJK@namegdef{^^db}#
+                           #1{\@empty\CJK@char{06}{  64}{##1}}
+? 
+! You can't use `macro parameter character #' in vertical mode.
+l.70   \CJK@namegdef{^^db}##
+                            1{\@empty\CJK@char{06}{  64}{##1}}
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.70   \CJK@namegdef{^^db}##1
+                             {\@empty\CJK@char{06}{  64}{##1}}
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.70 ...gdef{^^db}##1{\@empty\CJK@char{06}{  64}{#
+                                                  #1}}
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.70 ...def{^^db}##1{\@empty\CJK@char{06}{  64}{##
+                                                  1}}
+? 
+! Argument of \UTFviii@two@octets@combine has an extra }.
+<inserted text> 
+                \par 
+l.71   \CJK@namegdef{^^dc}
+                          ##1{\@empty\CJK@char{07}{-128}{##1}}
+? 
+Runaway argument?
+! Paragraph ended before \UTFviii@two@octets@combine was complete.
+<to be read again> 
+                   \par 
+l.71   \CJK@namegdef{^^dc}
+                          ##1{\@empty\CJK@char{07}{-128}{##1}}
+? 
+! You can't use `macro parameter character #' in vertical mode.
+l.71   \CJK@namegdef{^^dc}#
+                           #1{\@empty\CJK@char{07}{-128}{##1}}
+? 
+! You can't use `macro parameter character #' in vertical mode.
+l.71   \CJK@namegdef{^^dc}##
+                            1{\@empty\CJK@char{07}{-128}{##1}}
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.71   \CJK@namegdef{^^dc}##1
+                             {\@empty\CJK@char{07}{-128}{##1}}
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.71 ...gdef{^^dc}##1{\@empty\CJK@char{07}{-128}{#
+                                                  #1}}
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.71 ...def{^^dc}##1{\@empty\CJK@char{07}{-128}{##
+                                                  1}}
+? 
+! Argument of \UTFviii@two@octets@combine has an extra }.
+<inserted text> 
+                \par 
+l.72   \CJK@namegdef{^^dd}
+                          ##1{\@empty\CJK@char{07}{ -64}{##1}}
+? 
+Runaway argument?
+! Paragraph ended before \UTFviii@two@octets@combine was complete.
+<to be read again> 
+                   \par 
+l.72   \CJK@namegdef{^^dd}
+                          ##1{\@empty\CJK@char{07}{ -64}{##1}}
+? 
+! You can't use `macro parameter character #' in vertical mode.
+l.72   \CJK@namegdef{^^dd}#
+                           #1{\@empty\CJK@char{07}{ -64}{##1}}
+? 
+! You can't use `macro parameter character #' in vertical mode.
+l.72   \CJK@namegdef{^^dd}##
+                            1{\@empty\CJK@char{07}{ -64}{##1}}
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.72   \CJK@namegdef{^^dd}##1
+                             {\@empty\CJK@char{07}{ -64}{##1}}
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.72 ...gdef{^^dd}##1{\@empty\CJK@char{07}{ -64}{#
+                                                  #1}}
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.72 ...def{^^dd}##1{\@empty\CJK@char{07}{ -64}{##
+                                                  1}}
+? 
+! Argument of \UTFviii@two@octets@combine has an extra }.
+<inserted text> 
+                \par 
+l.73   \CJK@namegdef{^^de}
+                          ##1{\@empty\CJK@char{07}{   0}{##1}}
+? 
+Runaway argument?
+! Paragraph ended before \UTFviii@two@octets@combine was complete.
+<to be read again> 
+                   \par 
+l.73   \CJK@namegdef{^^de}
+                          ##1{\@empty\CJK@char{07}{   0}{##1}}
+? 
+! You can't use `macro parameter character #' in vertical mode.
+l.73   \CJK@namegdef{^^de}#
+                           #1{\@empty\CJK@char{07}{   0}{##1}}
+? 
+! You can't use `macro parameter character #' in vertical mode.
+l.73   \CJK@namegdef{^^de}##
+                            1{\@empty\CJK@char{07}{   0}{##1}}
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.73   \CJK@namegdef{^^de}##1
+                             {\@empty\CJK@char{07}{   0}{##1}}
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.73 ...gdef{^^de}##1{\@empty\CJK@char{07}{   0}{#
+                                                  #1}}
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.73 ...def{^^de}##1{\@empty\CJK@char{07}{   0}{##
+                                                  1}}
+? 
+! Argument of \UTFviii@two@octets@combine has an extra }.
+<inserted text> 
+                \par 
+l.74   \CJK@namegdef{^^df}
+                          ##1{\@empty\CJK@char{07}{  64}{##1}}
+? 
+Runaway argument?
+! Paragraph ended before \UTFviii@two@octets@combine was complete.
+<to be read again> 
+                   \par 
+l.74   \CJK@namegdef{^^df}
+                          ##1{\@empty\CJK@char{07}{  64}{##1}}
+? 
+! You can't use `macro parameter character #' in vertical mode.
+l.74   \CJK@namegdef{^^df}#
+                           #1{\@empty\CJK@char{07}{  64}{##1}}
+? 
+! You can't use `macro parameter character #' in vertical mode.
+l.74   \CJK@namegdef{^^df}##
+                            1{\@empty\CJK@char{07}{  64}{##1}}
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.74   \CJK@namegdef{^^df}##1
+                             {\@empty\CJK@char{07}{  64}{##1}}
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.74 ...gdef{^^df}##1{\@empty\CJK@char{07}{  64}{#
+                                                  #1}}
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.74 ...def{^^df}##1{\@empty\CJK@char{07}{  64}{##
+                                                  1}}
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.87   \CJK@n
+             amegdef{^^e0}##1##2{\@gobble\CJK@unicodeError
+? 
+! Argument of \UTFviii@three@octets@combine has an extra }.
+<inserted text> 
+                \par 
+l.87   \CJK@namegdef{^^e0}
+                          ##1##2{\@gobble\CJK@unicodeError
+? 
+Runaway argument?
+! Paragraph ended before \UTFviii@three@octets@combine was complete.
+<to be read again> 
+                   \par 
+l.87   \CJK@namegdef{^^e0}
+                          ##1##2{\@gobble\CJK@unicodeError
+? 
+! You can't use `macro parameter character #' in vertical mode.
+l.87   \CJK@namegdef{^^e0}#
+                           #1##2{\@gobble\CJK@unicodeError
+? 
+! You can't use `macro parameter character #' in vertical mode.
+l.87   \CJK@namegdef{^^e0}##
+                            1##2{\@gobble\CJK@unicodeError
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.87   \CJK@namegdef{^^e0}##1
+                             ##2{\@gobble\CJK@unicodeError
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.87   \CJK@namegdef{^^e0}##1#
+                              #2{\@gobble\CJK@unicodeError
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.87   \CJK@namegdef{^^e0}##1##
+                               2{\@gobble\CJK@unicodeError
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.88 ...                       \CJK@altchar{-32}{#
+                                                  #1}{##2}}
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.88 ...                      \CJK@altchar{-32}{##
+                                                  1}{##2}}
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.88 ...                  \CJK@altchar{-32}{##1}{#
+                                                  #2}}
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.88 ...                 \CJK@altchar{-32}{##1}{##
+                                                  2}}
+? 
+! Argument of \UTFviii@three@octets@combine has an extra }.
+<inserted text> 
+                \par 
+l.89   \CJK@namegdef{^^e1}
+                          ##1##2{\@gobble\CJK@unicodeError
+? 
+Runaway argument?
+! Paragraph ended before \UTFviii@three@octets@combine was complete.
+<to be read again> 
+                   \par 
+l.89   \CJK@namegdef{^^e1}
+                          ##1##2{\@gobble\CJK@unicodeError
+? 
+! You can't use `macro parameter character #' in vertical mode.
+l.89   \CJK@namegdef{^^e1}#
+                           #1##2{\@gobble\CJK@unicodeError
+? 
+! You can't use `macro parameter character #' in vertical mode.
+l.89   \CJK@namegdef{^^e1}##
+                            1##2{\@gobble\CJK@unicodeError
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.89   \CJK@namegdef{^^e1}##1
+                             ##2{\@gobble\CJK@unicodeError
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.89   \CJK@namegdef{^^e1}##1#
+                              #2{\@gobble\CJK@unicodeError
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.89   \CJK@namegdef{^^e1}##1##
+                               2{\@gobble\CJK@unicodeError
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.90 ...                       \CJK@altchar{-16}{#
+                                                  #1}{##2}}
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.90 ...                      \CJK@altchar{-16}{##
+                                                  1}{##2}}
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.90 ...                  \CJK@altchar{-16}{##1}{#
+                                                  #2}}
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.90 ...                 \CJK@altchar{-16}{##1}{##
+                                                  2}}
+? 
+! Argument of \UTFviii@three@octets@combine has an extra }.
+<inserted text> 
+                \par 
+l.91   \CJK@namegdef{^^e2}
+                          ##1##2{\@gobble\CJK@unicodeError
+? 
+Runaway argument?
+! Paragraph ended before \UTFviii@three@octets@combine was complete.
+<to be read again> 
+                   \par 
+l.91   \CJK@namegdef{^^e2}
+                          ##1##2{\@gobble\CJK@unicodeError
+? 
+! You can't use `macro parameter character #' in vertical mode.
+l.91   \CJK@namegdef{^^e2}#
+                           #1##2{\@gobble\CJK@unicodeError
+? 
+! You can't use `macro parameter character #' in vertical mode.
+l.91   \CJK@namegdef{^^e2}##
+                            1##2{\@gobble\CJK@unicodeError
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.91   \CJK@namegdef{^^e2}##1
+                             ##2{\@gobble\CJK@unicodeError
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.91   \CJK@namegdef{^^e2}##1#
+                              #2{\@gobble\CJK@unicodeError
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.91   \CJK@namegdef{^^e2}##1##
+                               2{\@gobble\CJK@unicodeError
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.92 ...                       \CJK@altchar{  0}{#
+                                                  #1}{##2}}
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.92 ...                      \CJK@altchar{  0}{##
+                                                  1}{##2}}
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.92 ...                  \CJK@altchar{  0}{##1}{#
+                                                  #2}}
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.92 ...                 \CJK@altchar{  0}{##1}{##
+                                                  2}}
+? 
+! Argument of \UTFviii@three@octets@combine has an extra }.
+<inserted text> 
+                \par 
+l.93   \CJK@namegdef{^^e3}
+                          ##1##2{\@gobble\CJK@unicodeError
+? 
+Runaway argument?
+! Paragraph ended before \UTFviii@three@octets@combine was complete.
+<to be read again> 
+                   \par 
+l.93   \CJK@namegdef{^^e3}
+                          ##1##2{\@gobble\CJK@unicodeError
+? 
+! You can't use `macro parameter character #' in vertical mode.
+l.93   \CJK@namegdef{^^e3}#
+                           #1##2{\@gobble\CJK@unicodeError
+? 
+! You can't use `macro parameter character #' in vertical mode.
+l.93   \CJK@namegdef{^^e3}##
+                            1##2{\@gobble\CJK@unicodeError
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.93   \CJK@namegdef{^^e3}##1
+                             ##2{\@gobble\CJK@unicodeError
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.93   \CJK@namegdef{^^e3}##1#
+                              #2{\@gobble\CJK@unicodeError
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.93   \CJK@namegdef{^^e3}##1##
+                               2{\@gobble\CJK@unicodeError
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.94 ...      \CJK@punctchar{\CJK@uniPunct}{ 16}{#
+                                                  #1}{##2}}
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.94 ...     \CJK@punctchar{\CJK@uniPunct}{ 16}{##
+                                                  1}{##2}}
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.94 ... \CJK@punctchar{\CJK@uniPunct}{ 16}{##1}{#
+                                                  #2}}
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.94 ...\CJK@punctchar{\CJK@uniPunct}{ 16}{##1}{##
+                                                  2}}
+? 
+! Argument of \UTFviii@three@octets@combine has an extra }.
+<inserted text> 
+                \par 
+l.95   \CJK@namegdef{^^e4}
+                          ##1##2{\@gobble\CJK@unicodeError
+? 
+Runaway argument?
+! Paragraph ended before \UTFviii@three@octets@combine was complete.
+<to be read again> 
+                   \par 
+l.95   \CJK@namegdef{^^e4}
+                          ##1##2{\@gobble\CJK@unicodeError
+? 
+! You can't use `macro parameter character #' in vertical mode.
+l.95   \CJK@namegdef{^^e4}#
+                           #1##2{\@gobble\CJK@unicodeError
+? 
+! You can't use `macro parameter character #' in vertical mode.
+l.95   \CJK@namegdef{^^e4}##
+                            1##2{\@gobble\CJK@unicodeError
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.95   \CJK@namegdef{^^e4}##1
+                             ##2{\@gobble\CJK@unicodeError
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.95   \CJK@namegdef{^^e4}##1#
+                              #2{\@gobble\CJK@unicodeError
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.95   \CJK@namegdef{^^e4}##1##
+                               2{\@gobble\CJK@unicodeError
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.96 ...                       \CJK@altchar{ 32}{#
+                                                  #1}{##2}}
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.96 ...                      \CJK@altchar{ 32}{##
+                                                  1}{##2}}
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.96 ...                  \CJK@altchar{ 32}{##1}{#
+                                                  #2}}
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.96 ...                 \CJK@altchar{ 32}{##1}{##
+                                                  2}}
+? 
+! Argument of \UTFviii@three@octets@combine has an extra }.
+<inserted text> 
+                \par 
+l.97   \CJK@namegdef{^^e5}
+                          ##1##2{\@gobble\CJK@unicodeError
+? 
+Runaway argument?
+! Paragraph ended before \UTFviii@three@octets@combine was complete.
+<to be read again> 
+                   \par 
+l.97   \CJK@namegdef{^^e5}
+                          ##1##2{\@gobble\CJK@unicodeError
+? 
+! You can't use `macro parameter character #' in vertical mode.
+l.97   \CJK@namegdef{^^e5}#
+                           #1##2{\@gobble\CJK@unicodeError
+? 
+! You can't use `macro parameter character #' in vertical mode.
+l.97   \CJK@namegdef{^^e5}##
+                            1##2{\@gobble\CJK@unicodeError
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.97   \CJK@namegdef{^^e5}##1
+                             ##2{\@gobble\CJK@unicodeError
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.97   \CJK@namegdef{^^e5}##1#
+                              #2{\@gobble\CJK@unicodeError
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.97   \CJK@namegdef{^^e5}##1##
+                               2{\@gobble\CJK@unicodeError
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.98 ...                       \CJK@altchar{ 48}{#
+                                                  #1}{##2}}
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.98 ...                      \CJK@altchar{ 48}{##
+                                                  1}{##2}}
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.98 ...                  \CJK@altchar{ 48}{##1}{#
+                                                  #2}}
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.98 ...                 \CJK@altchar{ 48}{##1}{##
+                                                  2}}
+? 
+! Argument of \UTFviii@three@octets@combine has an extra }.
+<inserted text> 
+                \par 
+l.99   \CJK@namegdef{^^e6}
+                          ##1##2{\@gobble\CJK@unicodeError
+? 
+Runaway argument?
+! Paragraph ended before \UTFviii@three@octets@combine was complete.
+<to be read again> 
+                   \par 
+l.99   \CJK@namegdef{^^e6}
+                          ##1##2{\@gobble\CJK@unicodeError
+? 
+! You can't use `macro parameter character #' in vertical mode.
+l.99   \CJK@namegdef{^^e6}#
+                           #1##2{\@gobble\CJK@unicodeError
+? 
+! You can't use `macro parameter character #' in vertical mode.
+l.99   \CJK@namegdef{^^e6}##
+                            1##2{\@gobble\CJK@unicodeError
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.99   \CJK@namegdef{^^e6}##1
+                             ##2{\@gobble\CJK@unicodeError
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.99   \CJK@namegdef{^^e6}##1#
+                              #2{\@gobble\CJK@unicodeError
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.99   \CJK@namegdef{^^e6}##1##
+                               2{\@gobble\CJK@unicodeError
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.100 ...                      \CJK@altchar{ 64}{#
+                                                  #1}{##2}}
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.100 ...                     \CJK@altchar{ 64}{##
+                                                  1}{##2}}
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.100 ...                 \CJK@altchar{ 64}{##1}{#
+                                                  #2}}
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.100 ...                \CJK@altchar{ 64}{##1}{##
+                                                  2}}
+? 
+! Argument of \UTFviii@three@octets@combine has an extra }.
+<inserted text> 
+                \par 
+l.101   \CJK@namegdef{^^e7}
+                           ##1##2{\@gobble\CJK@unicodeError
+? 
+Runaway argument?
+! Paragraph ended before \UTFviii@three@octets@combine was complete.
+<to be read again> 
+                   \par 
+l.101   \CJK@namegdef{^^e7}
+                           ##1##2{\@gobble\CJK@unicodeError
+? 
+! You can't use `macro parameter character #' in vertical mode.
+l.101   \CJK@namegdef{^^e7}#
+                            #1##2{\@gobble\CJK@unicodeError
+? 
+! You can't use `macro parameter character #' in vertical mode.
+l.101   \CJK@namegdef{^^e7}##
+                             1##2{\@gobble\CJK@unicodeError
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.101   \CJK@namegdef{^^e7}##1
+                              ##2{\@gobble\CJK@unicodeError
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.101   \CJK@namegdef{^^e7}##1#
+                               #2{\@gobble\CJK@unicodeError
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.101   \CJK@namegdef{^^e7}##1##
+                                2{\@gobble\CJK@unicodeError
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.102 ...                      \CJK@altchar{ 80}{#
+                                                  #1}{##2}}
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.102 ...                     \CJK@altchar{ 80}{##
+                                                  1}{##2}}
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.102 ...                 \CJK@altchar{ 80}{##1}{#
+                                                  #2}}
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.102 ...                \CJK@altchar{ 80}{##1}{##
+                                                  2}}
+? 
+! Argument of \UTFviii@three@octets@combine has an extra }.
+<inserted text> 
+                \par 
+l.103   \CJK@namegdef{^^e8}
+                           ##1##2{\@gobble\CJK@unicodeError
+? 
+Runaway argument?
+! Paragraph ended before \UTFviii@three@octets@combine was complete.
+<to be read again> 
+                   \par 
+l.103   \CJK@namegdef{^^e8}
+                           ##1##2{\@gobble\CJK@unicodeError
+? 
+! You can't use `macro parameter character #' in vertical mode.
+l.103   \CJK@namegdef{^^e8}#
+                            #1##2{\@gobble\CJK@unicodeError
+? 
+! You can't use `macro parameter character #' in vertical mode.
+l.103   \CJK@namegdef{^^e8}##
+                             1##2{\@gobble\CJK@unicodeError
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.103   \CJK@namegdef{^^e8}##1
+                              ##2{\@gobble\CJK@unicodeError
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.103   \CJK@namegdef{^^e8}##1#
+                               #2{\@gobble\CJK@unicodeError
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.103   \CJK@namegdef{^^e8}##1##
+                                2{\@gobble\CJK@unicodeError
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.104 ...                      \CJK@altchar{ 96}{#
+                                                  #1}{##2}}
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.104 ...                     \CJK@altchar{ 96}{##
+                                                  1}{##2}}
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.104 ...                 \CJK@altchar{ 96}{##1}{#
+                                                  #2}}
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.104 ...                \CJK@altchar{ 96}{##1}{##
+                                                  2}}
+? 
+! Argument of \UTFviii@three@octets@combine has an extra }.
+<inserted text> 
+                \par 
+l.105   \CJK@namegdef{^^e9}
+                           ##1##2{\@gobble\CJK@unicodeError
+? 
+Runaway argument?
+! Paragraph ended before \UTFviii@three@octets@combine was complete.
+<to be read again> 
+                   \par 
+l.105   \CJK@namegdef{^^e9}
+                           ##1##2{\@gobble\CJK@unicodeError
+? 
+! You can't use `macro parameter character #' in vertical mode.
+l.105   \CJK@namegdef{^^e9}#
+                            #1##2{\@gobble\CJK@unicodeError
+? 
+! You can't use `macro parameter character #' in vertical mode.
+l.105   \CJK@namegdef{^^e9}##
+                             1##2{\@gobble\CJK@unicodeError
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.105   \CJK@namegdef{^^e9}##1
+                              ##2{\@gobble\CJK@unicodeError
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.105   \CJK@namegdef{^^e9}##1#
+                               #2{\@gobble\CJK@unicodeError
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.105   \CJK@namegdef{^^e9}##1##
+                                2{\@gobble\CJK@unicodeError
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.106 ...                      \CJK@altchar{112}{#
+                                                  #1}{##2}}
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.106 ...                     \CJK@altchar{112}{##
+                                                  1}{##2}}
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.106 ...                 \CJK@altchar{112}{##1}{#
+                                                  #2}}
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.106 ...                \CJK@altchar{112}{##1}{##
+                                                  2}}
+? 
+! Argument of \UTFviii@three@octets@combine has an extra }.
+<inserted text> 
+                \par 
+l.107   \CJK@namegdef{^^ea}
+                           ##1##2{\@gobble\CJK@unicodeError
+? 
+Runaway argument?
+! Paragraph ended before \UTFviii@three@octets@combine was complete.
+<to be read again> 
+                   \par 
+l.107   \CJK@namegdef{^^ea}
+                           ##1##2{\@gobble\CJK@unicodeError
+? 
+! You can't use `macro parameter character #' in vertical mode.
+l.107   \CJK@namegdef{^^ea}#
+                            #1##2{\@gobble\CJK@unicodeError
+? 
+! You can't use `macro parameter character #' in vertical mode.
+l.107   \CJK@namegdef{^^ea}##
+                             1##2{\@gobble\CJK@unicodeError
+? 
+! Undefined control sequence.
+\set@color ...\@pdfcolorstack push{\current@color 
+                                                  }\aftergroup \reset@color 
+l.107   \CJK@namegdef{^^ea}##1
+                              ##2{\@gobble\CJK@unicodeError
+? 
+! Undefined control sequence.
+\set@color ...\@pdfcolorstack push{\current@color 
+                                                  }\aftergroup \reset@color 
+l.107   \CJK@namegdef{^^ea}##1
+                              ##2{\@gobble\CJK@unicodeError
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.107   \CJK@namegdef{^^ea}##1
+                              ##2{\@gobble\CJK@unicodeError
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.107   \CJK@namegdef{^^ea}##1#
+                               #2{\@gobble\CJK@unicodeError
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.107   \CJK@namegdef{^^ea}##1##
+                                2{\@gobble\CJK@unicodeError
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.108 ...                      \CJK@altchar{128}{#
+                                                  #1}{##2}}
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.108 ...                     \CJK@altchar{128}{##
+                                                  1}{##2}}
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.108 ...                 \CJK@altchar{128}{##1}{#
+                                                  #2}}
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.108 ...                \CJK@altchar{128}{##1}{##
+                                                  2}}
+? 
+! Argument of \UTFviii@three@octets@combine has an extra }.
+<inserted text> 
+                \par 
+l.109   \CJK@namegdef{^^eb}
+                           ##1##2{\@gobble\CJK@unicodeError
+? 
+Runaway argument?
+! Paragraph ended before \UTFviii@three@octets@combine was complete.
+<to be read again> 
+                   \par 
+l.109   \CJK@namegdef{^^eb}
+                           ##1##2{\@gobble\CJK@unicodeError
+? 
+! You can't use `macro parameter character #' in vertical mode.
+l.109   \CJK@namegdef{^^eb}#
+                            #1##2{\@gobble\CJK@unicodeError
+? 
+! You can't use `macro parameter character #' in vertical mode.
+l.109   \CJK@namegdef{^^eb}##
+                             1##2{\@gobble\CJK@unicodeError
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.109   \CJK@namegdef{^^eb}##1
+                              ##2{\@gobble\CJK@unicodeError
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.109   \CJK@namegdef{^^eb}##1#
+                               #2{\@gobble\CJK@unicodeError
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.109   \CJK@namegdef{^^eb}##1##
+                                2{\@gobble\CJK@unicodeError
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.110 ...                      \CJK@altchar{144}{#
+                                                  #1}{##2}}
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.110 ...                     \CJK@altchar{144}{##
+                                                  1}{##2}}
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.110 ...                 \CJK@altchar{144}{##1}{#
+                                                  #2}}
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.110 ...                \CJK@altchar{144}{##1}{##
+                                                  2}}
+? 
+! Argument of \UTFviii@three@octets@combine has an extra }.
+<inserted text> 
+                \par 
+l.111   \CJK@namegdef{^^ec}
+                           ##1##2{\@gobble\CJK@unicodeError
+? 
+Runaway argument?
+! Paragraph ended before \UTFviii@three@octets@combine was complete.
+<to be read again> 
+                   \par 
+l.111   \CJK@namegdef{^^ec}
+                           ##1##2{\@gobble\CJK@unicodeError
+? 
+! You can't use `macro parameter character #' in vertical mode.
+l.111   \CJK@namegdef{^^ec}#
+                            #1##2{\@gobble\CJK@unicodeError
+? 
+! You can't use `macro parameter character #' in vertical mode.
+l.111   \CJK@namegdef{^^ec}##
+                             1##2{\@gobble\CJK@unicodeError
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.111   \CJK@namegdef{^^ec}##1
+                              ##2{\@gobble\CJK@unicodeError
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.111   \CJK@namegdef{^^ec}##1#
+                               #2{\@gobble\CJK@unicodeError
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.111   \CJK@namegdef{^^ec}##1##
+                                2{\@gobble\CJK@unicodeError
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.112 ...                      \CJK@altchar{160}{#
+                                                  #1}{##2}}
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.112 ...                     \CJK@altchar{160}{##
+                                                  1}{##2}}
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.112 ...                 \CJK@altchar{160}{##1}{#
+                                                  #2}}
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.112 ...                \CJK@altchar{160}{##1}{##
+                                                  2}}
+? 
+! Argument of \UTFviii@three@octets@combine has an extra }.
+<inserted text> 
+                \par 
+l.113   \CJK@namegdef{^^ed}
+                           ##1##2{\@gobble\CJK@unicodeError
+? 
+Runaway argument?
+! Paragraph ended before \UTFviii@three@octets@combine was complete.
+<to be read again> 
+                   \par 
+l.113   \CJK@namegdef{^^ed}
+                           ##1##2{\@gobble\CJK@unicodeError
+? 
+! You can't use `macro parameter character #' in vertical mode.
+l.113   \CJK@namegdef{^^ed}#
+                            #1##2{\@gobble\CJK@unicodeError
+? 
+! You can't use `macro parameter character #' in vertical mode.
+l.113   \CJK@namegdef{^^ed}##
+                             1##2{\@gobble\CJK@unicodeError
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.113   \CJK@namegdef{^^ed}##1
+                              ##2{\@gobble\CJK@unicodeError
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.113   \CJK@namegdef{^^ed}##1#
+                               #2{\@gobble\CJK@unicodeError
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.113   \CJK@namegdef{^^ed}##1##
+                                2{\@gobble\CJK@unicodeError
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.114 ...                      \CJK@altchar{176}{#
+                                                  #1}{##2}}
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.114 ...                     \CJK@altchar{176}{##
+                                                  1}{##2}}
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.114 ...                 \CJK@altchar{176}{##1}{#
+                                                  #2}}
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.114 ...                \CJK@altchar{176}{##1}{##
+                                                  2}}
+? 
+! Argument of \UTFviii@three@octets@combine has an extra }.
+<inserted text> 
+                \par 
+l.115   \CJK@namegdef{^^ee}
+                           ##1##2{\@gobble\CJK@unicodeError
+? 
+Runaway argument?
+! Paragraph ended before \UTFviii@three@octets@combine was complete.
+<to be read again> 
+                   \par 
+l.115   \CJK@namegdef{^^ee}
+                           ##1##2{\@gobble\CJK@unicodeError
+? 
+! You can't use `macro parameter character #' in vertical mode.
+l.115   \CJK@namegdef{^^ee}#
+                            #1##2{\@gobble\CJK@unicodeError
+? 
+! You can't use `macro parameter character #' in vertical mode.
+l.115   \CJK@namegdef{^^ee}##
+                             1##2{\@gobble\CJK@unicodeError
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.115   \CJK@namegdef{^^ee}##1
+                              ##2{\@gobble\CJK@unicodeError
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.115   \CJK@namegdef{^^ee}##1#
+                               #2{\@gobble\CJK@unicodeError
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.115   \CJK@namegdef{^^ee}##1##
+                                2{\@gobble\CJK@unicodeError
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.116 ...                      \CJK@altchar{192}{#
+                                                  #1}{##2}}
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.116 ...                     \CJK@altchar{192}{##
+                                                  1}{##2}}
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.116 ...                 \CJK@altchar{192}{##1}{#
+                                                  #2}}
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.116 ...                \CJK@altchar{192}{##1}{##
+                                                  2}}
+? 
+! Argument of \UTFviii@three@octets@combine has an extra }.
+<inserted text> 
+                \par 
+l.117   \CJK@namegdef{^^ef}
+                           ##1##2{\@gobble\CJK@unicodeError
+? 
+Runaway argument?
+! Paragraph ended before \UTFviii@three@octets@combine was complete.
+<to be read again> 
+                   \par 
+l.117   \CJK@namegdef{^^ef}
+                           ##1##2{\@gobble\CJK@unicodeError
+? 
+! You can't use `macro parameter character #' in vertical mode.
+l.117   \CJK@namegdef{^^ef}#
+                            #1##2{\@gobble\CJK@unicodeError
+? 
+! You can't use `macro parameter character #' in vertical mode.
+l.117   \CJK@namegdef{^^ef}##
+                             1##2{\@gobble\CJK@unicodeError
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.117   \CJK@namegdef{^^ef}##1
+                              ##2{\@gobble\CJK@unicodeError
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.117   \CJK@namegdef{^^ef}##1#
+                               #2{\@gobble\CJK@unicodeError
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.117   \CJK@namegdef{^^ef}##1##
+                                2{\@gobble\CJK@unicodeError
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.118 ...     \CJK@punctchar{\CJK@uniPunct}{208}{#
+                                                  #1}{##2}}
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.118 ...    \CJK@punctchar{\CJK@uniPunct}{208}{##
+                                                  1}{##2}}
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.118 ...\CJK@punctchar{\CJK@uniPunct}{208}{##1}{#
+                                                  #2}}
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.118 ...CJK@punctchar{\CJK@uniPunct}{208}{##1}{##
+                                                  2}}
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.129   \CJK@n
+              amegdef{^^f0}##1##2##3{\@gobble\CJK@unicodexError
+? 
+! Argument of \UTFviii@four@octets@combine has an extra }.
+<inserted text> 
+                \par 
+l.129   \CJK@namegdef{^^f0}
+                           ##1##2##3{\@gobble\CJK@unicodexError
+? 
+Runaway argument?
+! Paragraph ended before \UTFviii@four@octets@combine was complete.
+<to be read again> 
+                   \par 
+l.129   \CJK@namegdef{^^f0}
+                           ##1##2##3{\@gobble\CJK@unicodexError
+? 
+! You can't use `macro parameter character #' in vertical mode.
+l.129   \CJK@namegdef{^^f0}#
+                            #1##2##3{\@gobble\CJK@unicodexError
+? 
+! You can't use `macro parameter character #' in vertical mode.
+l.129   \CJK@namegdef{^^f0}##
+                             1##2##3{\@gobble\CJK@unicodexError
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.129   \CJK@namegdef{^^f0}##1
+                              ##2##3{\@gobble\CJK@unicodexError
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.129   \CJK@namegdef{^^f0}##1#
+                               #2##3{\@gobble\CJK@unicodexError
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.129   \CJK@namegdef{^^f0}##1##
+                                2##3{\@gobble\CJK@unicodexError
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.129   \CJK@namegdef{^^f0}##1##2#
+                                  #3{\@gobble\CJK@unicodexError
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.129   \CJK@namegdef{^^f0}##1##2##
+                                   3{\@gobble\CJK@unicodexError
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.130 ...                   \CJK@altxchar{-2080}{#
+                                                  #1}{##2}{##3}}
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.130 ...                  \CJK@altxchar{-2080}{##
+                                                  1}{##2}{##3}}
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.130 ...              \CJK@altxchar{-2080}{##1}{#
+                                                  #2}{##3}}
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.130 ...             \CJK@altxchar{-2080}{##1}{##
+                                                  2}{##3}}
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.130 ...         \CJK@altxchar{-2080}{##1}{##2}{#
+                                                  #3}}
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.130 ...        \CJK@altxchar{-2080}{##1}{##2}{##
+                                                  3}}
+? 
+! Argument of \UTFviii@four@octets@combine has an extra }.
+<inserted text> 
+                \par 
+l.131   \CJK@namegdef{^^f1}
+                           ##1##2##3{\@gobble\CJK@unicodexError
+? 
+Runaway argument?
+! Paragraph ended before \UTFviii@four@octets@combine was complete.
+<to be read again> 
+                   \par 
+l.131   \CJK@namegdef{^^f1}
+                           ##1##2##3{\@gobble\CJK@unicodexError
+? 
+! You can't use `macro parameter character #' in vertical mode.
+l.131   \CJK@namegdef{^^f1}#
+                            #1##2##3{\@gobble\CJK@unicodexError
+? 
+! You can't use `macro parameter character #' in vertical mode.
+l.131   \CJK@namegdef{^^f1}##
+                             1##2##3{\@gobble\CJK@unicodexError
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.131   \CJK@namegdef{^^f1}##1
+                              ##2##3{\@gobble\CJK@unicodexError
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.131   \CJK@namegdef{^^f1}##1#
+                               #2##3{\@gobble\CJK@unicodexError
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.131   \CJK@namegdef{^^f1}##1##
+                                2##3{\@gobble\CJK@unicodexError
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.131   \CJK@namegdef{^^f1}##1##2#
+                                  #3{\@gobble\CJK@unicodexError
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.131   \CJK@namegdef{^^f1}##1##2##
+                                   3{\@gobble\CJK@unicodexError
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.132 ...                   \CJK@altxchar{-1056}{#
+                                                  #1}{##2}{##3}}
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.132 ...                  \CJK@altxchar{-1056}{##
+                                                  1}{##2}{##3}}
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.132 ...              \CJK@altxchar{-1056}{##1}{#
+                                                  #2}{##3}}
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.132 ...             \CJK@altxchar{-1056}{##1}{##
+                                                  2}{##3}}
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.132 ...         \CJK@altxchar{-1056}{##1}{##2}{#
+                                                  #3}}
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.132 ...        \CJK@altxchar{-1056}{##1}{##2}{##
+                                                  3}}
+? 
+! Argument of \UTFviii@four@octets@combine has an extra }.
+<inserted text> 
+                \par 
+l.133   \CJK@namegdef{^^f2}
+                           ##1##2##3{\@gobble\CJK@unicodexError
+? 
+Runaway argument?
+! Paragraph ended before \UTFviii@four@octets@combine was complete.
+<to be read again> 
+                   \par 
+l.133   \CJK@namegdef{^^f2}
+                           ##1##2##3{\@gobble\CJK@unicodexError
+? 
+! You can't use `macro parameter character #' in vertical mode.
+l.133   \CJK@namegdef{^^f2}#
+                            #1##2##3{\@gobble\CJK@unicodexError
+? 
+! You can't use `macro parameter character #' in vertical mode.
+l.133   \CJK@namegdef{^^f2}##
+                             1##2##3{\@gobble\CJK@unicodexError
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.133   \CJK@namegdef{^^f2}##1
+                              ##2##3{\@gobble\CJK@unicodexError
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.133   \CJK@namegdef{^^f2}##1#
+                               #2##3{\@gobble\CJK@unicodexError
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.133   \CJK@namegdef{^^f2}##1##
+                                2##3{\@gobble\CJK@unicodexError
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.133   \CJK@namegdef{^^f2}##1##2#
+                                  #3{\@gobble\CJK@unicodexError
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.133   \CJK@namegdef{^^f2}##1##2##
+                                   3{\@gobble\CJK@unicodexError
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.134 ...                   \CJK@altxchar{  -32}{#
+                                                  #1}{##2}{##3}}
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.134 ...                  \CJK@altxchar{  -32}{##
+                                                  1}{##2}{##3}}
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.134 ...              \CJK@altxchar{  -32}{##1}{#
+                                                  #2}{##3}}
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.134 ...             \CJK@altxchar{  -32}{##1}{##
+                                                  2}{##3}}
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.134 ...         \CJK@altxchar{  -32}{##1}{##2}{#
+                                                  #3}}
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.134 ...        \CJK@altxchar{  -32}{##1}{##2}{##
+                                                  3}}
+? 
+! Argument of \UTFviii@four@octets@combine has an extra }.
+<inserted text> 
+                \par 
+l.135   \CJK@namegdef{^^f3}
+                           ##1##2##3{\@gobble\CJK@unicodexError
+? 
+Runaway argument?
+! Paragraph ended before \UTFviii@four@octets@combine was complete.
+<to be read again> 
+                   \par 
+l.135   \CJK@namegdef{^^f3}
+                           ##1##2##3{\@gobble\CJK@unicodexError
+? 
+! You can't use `macro parameter character #' in vertical mode.
+l.135   \CJK@namegdef{^^f3}#
+                            #1##2##3{\@gobble\CJK@unicodexError
+? 
+! You can't use `macro parameter character #' in vertical mode.
+l.135   \CJK@namegdef{^^f3}##
+                             1##2##3{\@gobble\CJK@unicodexError
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.135   \CJK@namegdef{^^f3}##1
+                              ##2##3{\@gobble\CJK@unicodexError
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.135   \CJK@namegdef{^^f3}##1#
+                               #2##3{\@gobble\CJK@unicodexError
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.135   \CJK@namegdef{^^f3}##1##
+                                2##3{\@gobble\CJK@unicodexError
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.135   \CJK@namegdef{^^f3}##1##2#
+                                  #3{\@gobble\CJK@unicodexError
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.135   \CJK@namegdef{^^f3}##1##2##
+                                   3{\@gobble\CJK@unicodexError
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.136 ...                   \CJK@altxchar{  992}{#
+                                                  #1}{##2}{##3}}
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.136 ...                  \CJK@altxchar{  992}{##
+                                                  1}{##2}{##3}}
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.136 ...              \CJK@altxchar{  992}{##1}{#
+                                                  #2}{##3}}
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.136 ...             \CJK@altxchar{  992}{##1}{##
+                                                  2}{##3}}
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.136 ...         \CJK@altxchar{  992}{##1}{##2}{#
+                                                  #3}}
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.136 ...        \CJK@altxchar{  992}{##1}{##2}{##
+                                                  3}}
+? 
+! Argument of \UTFviii@four@octets@combine has an extra }.
+<inserted text> 
+                \par 
+l.137   \CJK@namegdef{^^f4}
+                           ##1##2##3{\@gobble\CJK@unicodexError
+? 
+Runaway argument?
+! Paragraph ended before \UTFviii@four@octets@combine was complete.
+<to be read again> 
+                   \par 
+l.137   \CJK@namegdef{^^f4}
+                           ##1##2##3{\@gobble\CJK@unicodexError
+? 
+! You can't use `macro parameter character #' in vertical mode.
+l.137   \CJK@namegdef{^^f4}#
+                            #1##2##3{\@gobble\CJK@unicodexError
+? 
+! You can't use `macro parameter character #' in vertical mode.
+l.137   \CJK@namegdef{^^f4}##
+                             1##2##3{\@gobble\CJK@unicodexError
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.137   \CJK@namegdef{^^f4}##1
+                              ##2##3{\@gobble\CJK@unicodexError
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.137   \CJK@namegdef{^^f4}##1#
+                               #2##3{\@gobble\CJK@unicodexError
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.137   \CJK@namegdef{^^f4}##1##
+                                2##3{\@gobble\CJK@unicodexError
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.137   \CJK@namegdef{^^f4}##1##2#
+                                  #3{\@gobble\CJK@unicodexError
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.137   \CJK@namegdef{^^f4}##1##2##
+                                   3{\@gobble\CJK@unicodexError
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.138 ...                   \CJK@altxchar{ 2016}{#
+                                                  #1}{##2}{##3}}}
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.138 ...                  \CJK@altxchar{ 2016}{##
+                                                  1}{##2}{##3}}}
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.138 ...              \CJK@altxchar{ 2016}{##1}{#
+                                                  #2}{##3}}}
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.138 ...             \CJK@altxchar{ 2016}{##1}{##
+                                                  2}{##3}}}
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.138 ...         \CJK@altxchar{ 2016}{##1}{##2}{#
+                                                  #3}}}
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.138 ...        \CJK@altxchar{ 2016}{##1}{##2}{##
+                                                  3}}}
+? 
+)
+! Undefined control sequence.
+\CJK@input ...cctab \file_input:n {#1}\cctab_end: 
+                                                  
+l.22 \begin{document}
+                     
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 \begin{document}
+                     
+? 
+(c0348a5b6c6163f9.aux)
+\openout1 = `c0348a5b6c6163f9.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 22.
+LaTeX Font Info:    Trying to load font information for T3+cmr on input line 22
+.
+ (D:\OtherSoftware\latex\miktex\tex/latex/tipa\t3cmr.fd
+File: t3cmr.fd 2001/12/31 TIPA font definitions
+)
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for C00/song/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for C05/song/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for C09/song/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for C10/song/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for C20/song/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for C19/song/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for C40/song/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for C42/song/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for C43/song/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for C50/song/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for C52/song/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for C49/song/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for C60/mj/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for C61/mj/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for C63/mj/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for C64/mj/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for C65/mj/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for C70/song/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for C31/song/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for C32/song/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for C33/song/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for C34/song/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for C35/song/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for C36/song/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for C37/song/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for C80/song/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for C81/song/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for C01/song/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for C11/song/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for C21/song/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for C41/song/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for C62/song/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+
+Preview: Fontsize 10.53937pt
+Preview: PDFoutput 1
+ABD: EverySelectfont initializing macros
+LaTeX Info: Redefining \selectfont on input line 22.
+
+(D:\OtherSoftware\latex\miktex\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count277
+\scratchdimen=\dimen150
+\scratchbox=\box51
+\nofMPsegments=\count278
+\nofMParguments=\count279
+\everyMPshowfont=\toks26
+\MPscratchCnt=\count280
+\MPscratchDim=\dimen151
+\MPnumerator=\count281
+\makeMPintoPDFobject=\count282
+\everyMPtoPDFconversion=\toks27
+)
+LaTeX Info: Redefining \microtypecontext on input line 22.
+Package microtype Info: Generating PDF output.
+Package microtype Info: Character protrusion enabled (level 2).
+Package microtype Info: Using default protrusion set `alltext'.
+Package microtype Info: Automatic font expansion enabled (level 2),
+(microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
+Package microtype Info: Using default expansion set `basictext'.
+LaTeX Info: Redefining \showhyphens on input line 22.
+Package microtype Info: No adjustment of tracking.
+Package microtype Info: No adjustment of interword spacing.
+Package microtype Info: No adjustment of character kerning.
+ (D:\OtherSoftware\latex\miktex\tex/latex/microtype\mt-cmr.cfg
+File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
+(RS)
+)
+! Undefined control sequence.
+\ctex_file_input:n #1->\cctab_begin:N 
+                                      \c__ctex_package_cctab \file_input:n {...
+l.22 \begin{document}
+                     
+? 
+! Undefined control sequence.
+\ctex_file_input:n ...in:N \c__ctex_package_cctab 
+                                                  \file_input:n {#1}\cctab_e...
+l.22 \begin{document}
+                     
+? 
+
+(C:\Users\asus\AppData\Roaming\MiKTeX\tex/generic/ctex/zhmap\ctex-zhmap-windows
+.tex
+File: ctex-zhmap-windows.tex 2020/08/23 v2.5.4 Windows font map loader for pdfT
+eX and DVIPDFMx (CTEX)
+{C:/Users/asus/AppData/Local/MiKTeX/pdftex/config/pdftex.map}{UGBK.sfd}{Unicode
+.sfd})
+! Undefined control sequence.
+\ctex_file_input:n ...ile_input:n {#1}\cctab_end: 
+                                                  
+l.22 \begin{document}
+                     
+? 
+
+! Package inputenc Error: Unicode character 鲁 (U+9C81)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.24 鲁
+        迅
+? 
+
+! Package inputenc Error: Unicode character 迅 (U+8FC5)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.24 鲁迅
+           
+? 
+Preview: Tightpage 0 0 0 0
+[1] (c0348a5b6c6163f9.aux)
+
+LaTeX Font Warning: Size substitutions with differences
+(Font)              up to 0.41063pt have occurred.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 10417 strings out of 480790
+ 165781 string characters out of 2904293
+ 462190 words of memory out of 3000000
+ 26176 multiletter control sequences out of 15000+200000
+ 537943 words of font info for 47 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 46i,6n,60p,500b,179s stack positions out of 5000i,500n,10000p,200000b,50000s
+
+Output written on c0348a5b6c6163f9.pdf (1 page, 856 bytes).
+PDF statistics:
+ 6 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 513 words of extra memory for PDF output out of 10000 (max. 10000000)
+

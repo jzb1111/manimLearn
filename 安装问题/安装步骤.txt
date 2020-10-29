@@ -1,0 +1,16 @@
+1.在anaconda中创建manim环境。
+2.在本地创建manim文件夹并切入该文件夹。
+3.百度搜索manimlib-0.1.11将tar.gz下载到该文件夹下。
+4.pip install manimlib
+5.若报错‘gbk’。。。，则将D:\CodingSoftware\anaconda\anaconda\envs\manim\Lib\email中的paser.py修改
+        while True:
+            try:
+                data = fp.read(8192)
+            except UnicodeDecodeError:
+                fp=open(fp.name,fp.mode,encoding="UTF-8")
+                data=fp.read(8192)
+            if not data:
+                break
+            feedparser.feed(data)
+        return feedparser.close()
+再次运行pip install manimlib

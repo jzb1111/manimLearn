@@ -1,0 +1,4 @@
+file 'file:E:/python_project/manimLearn/manimLearn/5_string_animation/media/videos/string_animation/1440p60/partial_movie_files/skin/00000.mp4'
+file 'file:E:/python_project/manimLearn/manimLearn/5_string_animation/media/videos/string_animation/1440p60/partial_movie_files/skin/00001.mp4'
+file 'file:E:/python_project/manimLearn/manimLearn/5_string_animation/media/videos/string_animation/1440p60/partial_movie_files/skin/00002.mp4'
+file 'file:E:/python_project/manimLearn/manimLearn/5_string_animation/media/videos/string_animation/1440p60/partial_movie_files/skin/00003.mp4'

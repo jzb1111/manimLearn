@@ -1,0 +1,5 @@
+file 'file:E:/python_project/manimLearn/manimLearn/9_3dim/media/videos/3dim/1440p60/partial_movie_files/Sun_and_planet/00000.mp4'
+file 'file:E:/python_project/manimLearn/manimLearn/9_3dim/media/videos/3dim/1440p60/partial_movie_files/Sun_and_planet/00001.mp4'
+file 'file:E:/python_project/manimLearn/manimLearn/9_3dim/media/videos/3dim/1440p60/partial_movie_files/Sun_and_planet/00002.mp4'
+file 'file:E:/python_project/manimLearn/manimLearn/9_3dim/media/videos/3dim/1440p60/partial_movie_files/Sun_and_planet/00003.mp4'
+file 'file:E:/python_project/manimLearn/manimLearn/9_3dim/media/videos/3dim/1440p60/partial_movie_files/Sun_and_planet/00004.mp4'

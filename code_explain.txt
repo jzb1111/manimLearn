@@ -1,0 +1,118 @@
+一、基础图形
+基础图形在manimlib\mobject\geomtry.py中定义
+类别：Circle,Dot(继承自Circle),SmallDot,Ellipse(椭圆),AnnularSector(扇环形),Sector(扇形),Annulus(环形),Line,DashedLine(虚线),TangentLine(切线),Elbow(拐角),Arrow(箭头),Vector(向量),DoubleArrow,CubicBezier(贝塞尔曲线（通过两端切线生成平滑曲线）),Polygon(多边形),RegularPolygon(正多边形),Triangle,ArrowTip(箭尖),Rectangle,Square,RoundedRectangle
+
+1.1一些图形使用例子：
+1.1.1Rectangle
+circle01=Circle(color=RED)
+
+1.1.2Square
+square01=Square(side_length=2.0)
+
+1.2图形组合
+
+circle_scope=VGroup(circle01,circle02,square01)
+
+1.3文字
+
+text01=TextMobject("LOVE DEATH + ROBOT",color=RED)
+
+1.4公式
+百度LaTex:Symbols可查询一些符号的写法
+
+title=TextMobject("This is some \\\LaTex")
+
+basel=TexMobject(
+            "\\sum_{n=1}^\\infty "
+            "\\frac{1}{n^2} = \\frac{\\pi^2}{6}"
+            )
+
+1.5三维图形
+
+三维场景绘制继承于ThreeDScene
+
+1.5.1球
+sun=Sphere(radius=1.6)
+
+1.5.2立方体
+cube_yellow=Cube(fill_color=YELLOW,stroke_width=2,strok_color=WHITE)
+
+1.5.3自由曲线
+spiral_line=ParametricFunction(lambda t:r*complex_to_R3(np.exp(1j*w*t))+OUT*t,
+                                       t_min=0,t_max=TAU*1.5,color=PINK,stroke_width=8)
+
+1.5.4自由曲面
+surface=ParametricSurface(lambda u,v:np.array([u,v,np.sin(u**2+v**2)]),
+                                  u_min=-4,u_max=4,v_min=-4,v_max=4,resolution=(120,120))
+
+1.6外部图片
+class Invoker(Scene):
+    CONFIG={'im1':'1.jpg','im2':'2.jpg','im3':'3.jpg'}
+    def construct(self):
+        ice=ImageMobject(self.im1)
+        ice.set_height(1)
+
+1.7多元素处理
+
+points=[x*RIGHT+y*UP for x in np.arange(-5,5,1) for y in np.arange(-3,3,1)]
+
+        vec_field=[]
+        for point in points:
+            field=0.5*RIGHT+0.5*UP
+            result=Vector(field).shift(point)
+            vec_field.append(result)
+        draw_field=VGroup(*vec_field)
+
+二、图形变换
+在manimlib\mobject\mobject.py中定义
+类别：shift,scale,rotate_about_origin,rotate,flip,stretch,next_to,move_to等
+
+2.1一些变换例子
+circle01.shift(LEFT*np.sqrt(2)/2)
+
+square01.rotate(np.pi/4)
+
+abel2.bg=SurroundingRectangle(label2,color=BLUE,fill_color=RED,fill_opacity=0.5)
+
+label2_group.next_to(label_group,DOWN)
+
+label3.scale(1.8)
+
+label3.set_color_by_gradient(RED,ORANGE,YELLOW,GREEN,BLUE,PURPLE)
+
+label3.to_edge(DOWN)
+
+三、动画变换
+在manimlib\animation\transform.py中定义
+
+3.1一些变换例子
+self.add(circle_scope)
+
+self.play(FadeIn(circle_scope))
+
+self.play(ApplyMethod(circle_scope.shift,LEFT*5))
+
+self.play(ApplyMethod(circle_scope.set_opacity,1))
+
+self.play(FadeToColor(circle_scope,color=BLUE))
+
+self.play(Transform(line01,text01))#一个控件变换成另一个控件
+
+self.play(FadeOut(quote),FadeOut(author))#同时操作两个控件
+
+self.play(Write(title),
+                  FadeInFrom(basel,UP)
+                  )
+
+3.2三维变换
+
+3.2.1视角变换
+for i in range(30):
+     phi_0+=delta_phi
+     self.set_camera_orientation(phi=phi_0,theta=theta_0)
+     self.wait(dt)
+
+四、其他
+https://www.bilibili.com/read/cv4761465
+3.1通过旋转生成曲面
+3.2通过updater制作简单的曲面生成动画

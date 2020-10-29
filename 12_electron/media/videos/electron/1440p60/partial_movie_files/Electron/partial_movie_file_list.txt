@@ -1,0 +1,2 @@
+file 'file:E:/python_project/manimLearn/manimLearn/12_electron/media/videos/electron/1440p60/partial_movie_files/Electron/00000.mp4'
+file 'file:E:/python_project/manimLearn/manimLearn/12_electron/media/videos/electron/1440p60/partial_movie_files/Electron/00001.mp4'
